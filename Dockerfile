@@ -10,8 +10,4 @@ WORKDIR /app
 # Download dependencies
 RUN yarn global add browser-sync
 
-# Exposing ports
-EXPOSE 3000
 
-# Container entrypoint
-CMD ["yarn", "start"]

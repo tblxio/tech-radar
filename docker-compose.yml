@@ -1,0 +1,17 @@
+version: '3.8'
+
+services:
+  tech_radar:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: tech-radar
+    ports: 
+      - "3000:3000"
+      - "3001:3001"
+    tty: true
+    stdin_open: true
+    volumes:
+      - ./docs:/app
+    command: ["browser-sync", "start", "--watch" , "**/*",  "--server",  "/app"]
+  
