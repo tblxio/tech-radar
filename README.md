@@ -4,7 +4,7 @@ This module is for the UI of the Tech-Radar. It lists the technologies, framewor
 ## Current State of Development
 Ongoing
 
-## Running with Docker
+## Running with Docker Compose
  - Run the container 
    `docker-compose up`
 

@@ -9,5 +9,3 @@ WORKDIR /app
 
 # Download dependencies
 RUN yarn global add browser-sync
-
-
