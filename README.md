@@ -4,12 +4,9 @@ This module is for the UI of the Tech-Radar. It lists the technologies, framewor
 ## Current State of Development
 Ongoing
 
-## Running with Docker
- - Build the image 
-   `docker build -t tech-radar .`
-
+## Running with Docker Compose
  - Run the container 
-   `docker run -it -p 3000:3000 -p 3001:3001 -v $(pwd):/app tech-radar`
+   `docker-compose up`
 
  - Open tech-radar in the browser window 
    http://localhost:3000
