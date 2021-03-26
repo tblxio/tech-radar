@@ -1,19 +1,68 @@
+/* Main - Styles */
+
+*, *::after, *::before {
+  box-sizing: border-box;
+}
+
 body {
   font-family: 'Source Sans Pro', arial, helvetica, sans-serif;
-  padding-bottom: 50px;
+  padding-bottom: 3.2rem;
 }
-h3 {
-  margin-top: 50px;
-}
+
 li {
-  margin: 25px 50px 0 0;
+  margin: 25 50 0 0;
+  text-align: justify;
 }
-table {
-  width: 1400px;
-  margin: 0 50px 0 50px;
+
+.content {
+  margin: auto;
+  width: 85%;
 }
-td {
-  width: 50%;
-  vertical-align: top;
-  padding-right: 60px;
+
+/* SidePanel - Styles */
+.sidePanel {
+  position: fixed; 
+  z-index: 2;
+  top: 0;
+  right: 0;
+  height: 100%;
+  width: 20%; 
+  font-size: 1rem;
+  background-color: rgb(208, 206, 206); 
+  overflow-x: hidden; 
+  padding-top: 2rem; 
+  transform: translate(100%);
+  transition: 0.5s; 
+}
+
+.sidePanel.active {
+  transform: translate(0);
+}
+
+.description {
+  margin: 1.3rem;
+  line-height: 1.5;
+  height: 100%;
+  background: none;
+  text-align: justify;
+}
+
+.closebtn {
+  position: fixed;
+  right: 1.3rem;
+  cursor: pointer;
+  border: none;
+  outline: none;
+  background: none;
+  font-size: 1.85rem;
+  font-weight: bold;
+  color: rgb(116, 116, 116)
+}
+
+.closebtn:hover {
+  color: rgb(0, 0, 0);
+}
+
+svg text[class*="legend"] {
+  cursor: pointer;
 }

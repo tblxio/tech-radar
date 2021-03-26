@@ -6,5 +6,5 @@
     "active": false,
     "link": "",
     "moved": 0,
-    "description": ""
+    "description": "Aurelia empowers you to build components using vanilla JavaScript or TypeScript and enables powerful reactive binding to any object. By using adaptive techniques Aurelia selects the most efficient way to observe each property in your model and automatically syncs your UI and your state with best-in-class performance."
 }

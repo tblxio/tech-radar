@@ -6,5 +6,5 @@
     "active": false,
     "link": "",
     "moved": 0,
-    "description": ""
+    "description": "Yarn is a fast, reliable and secured package manager for JavaScript. Using a lock file and a deterministic algorithm, Yarn is able to guarantee that an installation that worked on one system will work exactly the same way on any other system. By efficiently queuing up requests, Yarn maximizes network utilization and as a result we’ve seen faster package downloads. Yarn continues to be our tool of choice for JavaScript package management in spite of the latest improvements in npm (version 5)."
 }

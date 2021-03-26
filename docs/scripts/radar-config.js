@@ -1,20 +1,24 @@
 "use strict";
 
-const config = async () => {
-    let entries = [];
+let entries = [];
 
-    for await (let endpoint of paths.endpoints) {
-      const data = await fetch(endpoint);
-      const dataJSON = await data.json();
-      entries = [...chart.entries, ...entries, dataJSON];
-    }
+const config = () => {
+  paths.endpoints.forEach((element) => {
+  fetch(element)
+    .then(response => response.json())
+    .then(result => {
+      entries = [...entries, result];
+    });
+  });
 
+  setTimeout(() => {
     const radarConfig = {
       ...chart,
       entries,
     };
 
     radar_visualization(radarConfig);
-  };
+  }, 100);
+};
 
-  window.addEventListener("load", () => config());
+window.addEventListener("load", () => config());

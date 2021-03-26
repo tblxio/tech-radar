@@ -6,37 +6,47 @@
   </head>
 
   <body>
-    <svg id="radar"></svg>
-    <ul>
-      <li>
-        <strong>ADOPT</strong> &mdash; Technologies we have high confidence in
-        to serve our purpose, also in large scale.
-      </li>
-      <li>
-        <strong>TRIAL</strong> &mdash; Technologies that we have seen work with
-        success in project work to solve a real problem; first serious usage
-        experience that confirm benefits and can uncover limitations. TRIAL
-        technologies are slightly more risky; some engineers in our organization
-        walked this path and will share knowledge and experiences.
-      </li>
-      <li>
-        <strong>ASSESS</strong> &mdash; Technologies worth exploring. 
-        However, keep in mind that these technologies have higher risks; 
-        It is ideal to be used in small PoC or small projects that don't have a 
-        big impact on the business.
-      </li>
-      <li>
-        <strong>HOLD</strong> &mdash; Technologies not recommended to be used
-        for new projects. Technologies that we think are not (yet) worth to
-        (further) invest in. HOLD technologies should not be used for new
-        projects, but usually can be continued for existing projects.
-      </li>
-    </ul>
-
-    <script src="https://d3js.org/d3.v4.min.js"></script>
-    <script src="scripts/radar-visualization.js"></script>
-    <script src="scripts/radar-chart.js"></script>
-    <script src="scripts/data-paths.js"></script>
-    <script src="scripts/radar-config.js"></script>
-  </body>
-</html>
+    <div class="content">
+      <svg id="radar"></svg>
+      
+      <div id="sidePanel" class="sidePanel">
+        <span class="closebtn" onclick=closePanel() >&times;</span>
+        <div id="description" class="description"></div>
+      </div>
+      
+      <ul>
+        <li>
+          <strong>ADOPT</strong> &mdash; Technologies we have high confidence in
+          to serve our purpose, also in large scale.
+        </li>
+        <li>
+          <strong>TRIAL</strong> &mdash; Technologies that we have seen work with
+          success in project work to solve a real problem; first serious usage
+          experience that confirm benefits and can uncover limitations. TRIAL
+          technologies are slightly more risky; some engineers in our organization
+          walked this path and will share knowledge and experiences.
+        </li>
+        <li>
+          <strong>ASSESS</strong> &mdash; Technologies worth exploring. 
+          However, keep in mind that these technologies have higher risks; 
+          It is ideal to be used in small PoC or small projects that don't have a 
+          big impact on the business.
+        </li>
+        <li>
+          <strong>HOLD</strong> &mdash; Technologies not recommended to be used
+          for new projects. Technologies that we think are not (yet) worth to
+          (further) invest in. HOLD technologies should not be used for new
+          projects, but usually can be continued for existing projects.
+        </li>
+      </ul>
+    </div>
+      
+      <script src="https://d3js.org/d3.v4.min.js"></script>
+      <script src="scripts/radar-visualization.js"></script>
+      <script src="scripts/radar-chart.js"></script>
+      <script src="scripts/data-paths.js"></script>
+      <script src="scripts/radar-config.js"></script>
+      <script src="scripts/side-panel.js"></script>
+    </body>
+    </html>
+    

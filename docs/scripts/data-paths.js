@@ -1,5 +1,6 @@
 "use strict";
 
+// local endpoints
 const paths = (() => {
   return {
     endpoints: [

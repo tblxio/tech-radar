@@ -6,5 +6,5 @@
     "active": false,
     "link": "",
     "moved": 0,
-    "description": ""
+    "description": "Redux helps us to maintain state in our frontend applications in a more predictable and clearer way. It is extendable though middleware, it has a great documentation and some awesome devtools that are especially helpful when you are new to Redux."
 }
