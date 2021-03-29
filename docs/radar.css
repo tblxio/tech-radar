@@ -4,13 +4,18 @@
   box-sizing: border-box;
 }
 
+:root {
+  font-size: 62.5%;
+}
+
 body {
+  font-size: 1.6rem;
   font-family: 'Source Sans Pro', arial, helvetica, sans-serif;
   padding-bottom: 3.2rem;
 }
 
 li {
-  margin: 25 50 0 0;
+  margin: 0 5rem 2.5rem 0;
   text-align: justify;
 }
 
@@ -26,10 +31,9 @@ li {
   top: 0;
   right: 0;
   height: 100%;
-  width: 20%; 
-  font-size: 1rem;
-  background-color: rgb(208, 206, 206); 
-  overflow-x: hidden; 
+  width: 25%; 
+  max-width: 50rem;
+  background-color: rgb(208, 206, 206);
   padding-top: 2rem; 
   transform: translate(100%);
   transition: 0.5s; 
@@ -40,10 +44,8 @@ li {
 }
 
 .description {
-  margin: 1.3rem;
-  line-height: 1.5;
-  height: 100%;
-  background: none;
+  margin: 3rem;
+  line-height: 2;
   text-align: justify;
 }
 
@@ -51,10 +53,6 @@ li {
   position: fixed;
   right: 1.3rem;
   cursor: pointer;
-  border: none;
-  outline: none;
-  background: none;
-  font-size: 1.85rem;
   font-weight: bold;
   color: rgb(116, 116, 116)
 }
