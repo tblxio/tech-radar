@@ -20,6 +20,7 @@ li {
 }
 
 .content {
+  display: none;
   margin: auto;
   width: 85%;
 }
