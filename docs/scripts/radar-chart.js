@@ -9,7 +9,7 @@ const chart = (() => ({
     grid: "#bbb",
     inactive: "#ddd",
   },
-  title: "Tech Radar",
+  title: "",
   quadrants: [
     { name: "Programming Languages" },
     { name: "Techniques" },

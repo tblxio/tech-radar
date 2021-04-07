@@ -4,18 +4,28 @@
     <title>Tech Radar</title>
     <link rel="stylesheet" href="./styles/loader.css" />
     <link rel="stylesheet" href="./styles/radar.css" />
+    <link rel="stylesheet" href="./styles/side-panel.css" />
+    <link rel="stylesheet" href="./styles/page-header.css" />
     <script defer src="scripts/loader.js"></script>
   </head>
 
   <body>
     <div id="loader" class="loader"></div>
+    <div class="logo-svg">
+      <img src="./media/logo.svg" alt="tb.lx by Daimler Trucks & Buses">
+    </div>
+    <div class="title">
+      <h1>Tech Radar</h1>
+    </div>
+
     <div id="content" class="content"> 
       <svg id="radar"></svg>
       
-      <div id="sidePanel" class="sidePanel">
-        <span class="closebtn" onclick=closePanel() >&times;</span>
+      <div id="side-panel" class="side-panel">
+        <span role="button" class="closebtn side-panel-close">&times;</span>
         <div id="description" class="description"></div>
       </div>
+      <aside class="overlay side-panel-close" id="overlay"></aside>
       
       <ul>
         <li>

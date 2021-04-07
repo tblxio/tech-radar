@@ -1,65 +1,32 @@
 /* Main - Styles */
 
-*, *::after, *::before {
+*,
+*::after,
+*::before {
   box-sizing: border-box;
 }
 
 :root {
   font-size: 62.5%;
+  background: #272727;
 }
 
 body {
   font-size: 1.6rem;
-  font-family: 'Source Sans Pro', arial, helvetica, sans-serif;
+  font-family: "Source Sans Pro", arial, helvetica, sans-serif;
   padding-bottom: 3.2rem;
 }
 
 li {
   margin: 0 5rem 2.5rem 0;
   text-align: justify;
+  color: #ffffff;
 }
 
 .content {
   display: none;
   margin: auto;
   width: 85%;
-}
-
-/* SidePanel - Styles */
-.sidePanel {
-  position: fixed; 
-  z-index: 2;
-  top: 0;
-  right: 0;
-  height: 100%;
-  width: 25%; 
-  max-width: 50rem;
-  background-color: rgb(208, 206, 206);
-  padding-top: 2rem; 
-  transform: translate(100%);
-  transition: 0.5s; 
-}
-
-.sidePanel.active {
-  transform: translate(0);
-}
-
-.description {
-  margin: 3rem;
-  line-height: 2;
-  text-align: justify;
-}
-
-.closebtn {
-  position: fixed;
-  right: 1.3rem;
-  cursor: pointer;
-  font-weight: bold;
-  color: rgb(116, 116, 116)
-}
-
-.closebtn:hover {
-  color: rgb(0, 0, 0);
 }
 
 svg text[class*="legend"] {

@@ -1,0 +1,36 @@
+/* PageHeader - Styles */
+.logo-svg {
+    position: absolute;
+    top: 2rem;
+    left: 0;
+    width: 100%;
+    z-index: 2;
+    overflow: hidden;
+    padding-left: 4.2rem;
+    display: flex;
+    flex-flow: row nowrap;
+  }
+  
+  .logo-svg img {
+    height: 4.2rem;
+  }
+  
+  .title {
+    position: absolute;
+    width: 100%;
+    z-index: 3;
+    height: 4.2rem;
+    display: flex;
+    flex-flow: row nowrap;
+    align-items: center;
+    justify-content: space-around;
+  }
+  
+  .title h1 {
+    font-size: 3.2rem;
+    color: #37c871;
+    line-height: 0;
+    padding-top: 3.2rem;
+    font-weight: 100;
+  }
+  
