@@ -5,7 +5,7 @@ const chart = (() => ({
   width: 1450,
   height: 1000,
   colors: {
-    background: "#fff",
+    background: "#272727",
     grid: "#bbb",
     inactive: "#ddd",
   },
