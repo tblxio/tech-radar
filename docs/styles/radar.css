@@ -23,12 +23,6 @@ li {
   color: #ffffff;
 }
 
-.content {
-  display: none;
-  margin: auto;
-  width: 85%;
-}
-
 svg text[class*="legend"] {
   cursor: pointer;
 }

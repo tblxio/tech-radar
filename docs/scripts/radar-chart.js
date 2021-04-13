@@ -2,8 +2,8 @@
 
 const chart = (() => ({
   svg_id: "radar",
-  width: 1450,
-  height: 1000,
+  width: window.innerWidth,
+  height: window.innerHeight,
   colors: {
     background: "#272727",
     grid: "#bbb",
@@ -15,7 +15,6 @@ const chart = (() => ({
     { name: "Techniques" },
     { name: "Frameworks" },
     { name: "Platforms" },
-    { name: "Tools" },
   ],
   rings: [
     { name: "ADOPT", color: "#99cc00" },

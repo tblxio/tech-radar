@@ -21,6 +21,7 @@
 
 /* Page content - animation */
 .content {
+  display: none;
   position: relative;
   animation-name: content;
   animation-duration: 1s
