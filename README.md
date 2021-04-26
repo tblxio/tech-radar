@@ -4,7 +4,55 @@
 This module is for the UI of the Tech-Radar.
 It lists the technologies, frameworks, tools, and methods complemented by an assessment result.
 
-Page is published at https://pages.git.daimler.com/tdh/tech-radar-ui
+You can access a preview of the radar [here](https://pages.git.daimler.com/tblx/tech-radar-ui).
+
+## Workflow
+The tech radar is built predicated on data entries specified in `/docs/data`
+
+Entries are positioned automatically so that they don't overlap. 
+
+The quadrants of the radar, and the order of the rings inside the radar will be drawn in the order as shown below:
+
+| number    | ring       | quadrant               |
+|-----------|------------|------------------------|
+| 0         | Adopt      | Languages              |
+| 1         | Trial      | Tools                  |
+| 2         | Assess     | Frameworks             |
+| 3         | Hold       | Platforms              |
+
+### Setting up new data
+For a new Technology Radar release, create a folder under /docs/data with the name of the release. In each release folder create a file in Markdown format (.md) with the same name and place the information there.
+
+The data must conform to the format below for the radar to be generated correctly. Each file has a [front-matter](https://github.com/jxson/front-matter) header where the attributes of the item are listed and are passed down to the radar.
+
+```
+---
+label: Item name
+quadrant: 2
+ring : 1
+moved: 0
+---
+
+# Item name
+
+Description text goes here.
+```
+
+Following front-matter attributes are possible:
+
+- label: Name of the Item
+- quadrant: 0,1,2,3 (counting clockwise, starting from bottom right) 
+- ring: 0,1,2,3 (starting from inside)
+- moved:
+  - -1 = moved out (triangle pointing down)
+  -  0 = not moved (circle)
+  -  1 = moved in  (triangle pointing up)
+
+The name of the Markdown file acts as item identifier and may overwrite items with the same name from older releases.
+
+If an item is overwritten in a new release, the attributes from the new item are merged with the old ones and a new history entry is created for that item.
+
+After setting up your data you need to run `yarn parse` to output the data to the radar.
 
 ## Setup
 
@@ -17,10 +65,9 @@ Page is published at https://pages.git.daimler.com/tdh/tech-radar-ui
   - clone the repo
   - `yarn` for dependencies installation
 
-## Development
-
-  ### Running
+  ### Commands
   - `yarn start` for webpack-dev-server
+  - `yarn parse` to convert markdown data to JSON
 
   ### Running with Docker 
   - `docker-compose up` to run the container

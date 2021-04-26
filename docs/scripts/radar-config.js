@@ -1,13 +1,11 @@
 "use strict";
 
-const config = async (chart, paths) => {
-  let entries = [];
+const config = async (chart) => {
+  const endpoint = "./../output-data.json";
 
-  for await (let endpoint of paths.endpoints) {
-    const data = await fetch(endpoint);
-    const dataJSON = await data.json();
-    entries = [...chart.entries, ...entries, dataJSON];
-  }
+  const data = await fetch(endpoint);
+  const dataJSON = await data.json();
+  const entries = dataJSON.data;
 
   const radarConfig = {
     ...chart,

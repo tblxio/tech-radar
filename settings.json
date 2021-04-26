@@ -1,0 +1,11 @@
+{
+    "name": "markdown-json",
+    "cwd": "./",
+    "src": "docs/",
+    "filePattern": "**/*.md",
+    "ignore": "*(icon|input)*",
+    "dist": "docs/output-data.json",
+    "metadata": false,
+    "server": false,
+    "port": 4001
+  }

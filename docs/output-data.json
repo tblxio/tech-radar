@@ -1,0 +1,27 @@
+{
+  "app": {
+    "config": "./settings.json",
+    "cwd": "./",
+    "src": "docs/",
+    "filePattern": "**/*.md",
+    "ignore": "*(icon|input)*",
+    "dist": "docs/output-data.json",
+    "display": true,
+    "server": false,
+    "port": 4001,
+    "name": "markdown-json",
+    "metadata": false,
+    "version": "1.5.1"
+  },
+  "data": [
+    {
+      "id": "data__react__react",
+      "contents": "<h1 id=\"react\">React</h1>\n<p>React makes it painless to create interactive UIs and we see great potential to build upcoming projects with React.</p>\n",
+      "label": "React",
+      "quadrant": 2,
+      "ring": 0,
+      "moved": 0,
+      "excerpt": "<p>React makes it painless to create interactive UIs and we see great potential to build upcoming projects with React.</p>"
+    }
+  ]
+}

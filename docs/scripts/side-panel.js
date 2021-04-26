@@ -21,8 +21,7 @@ const sidePanel = (entries) => {
           overlay.classList.add("active");
           sidePanel.classList.add("active");
           description.innerHTML = `
-            <h2>${entry.title}</h2>
-            <p>${entry.description}</p>
+            <div>${entry.contents}</div>
           `;
         };
 

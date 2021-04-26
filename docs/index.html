@@ -2,6 +2,7 @@
   <head>
     <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
     <title>Tech Radar</title>
+    <link rel="icon" type="image/png" sizes="256x256" href="./media/favicon.png">
     <link rel="stylesheet" href="./styles/loader.css" />
     <link rel="stylesheet" href="./styles/radar.css" />
     <link rel="stylesheet" href="./styles/side-panel.css" />
@@ -56,13 +57,12 @@
     <script src="https://d3js.org/d3.v4.min.js"></script>
     <script src="scripts/radar-visualization.js"></script>
     <script src="scripts/radar-chart.js"></script>
-    <script src="scripts/data-paths.js"></script>
+    <script src="scripts/radar-config.js"></script>
     <script src="scripts/radar-config.js"></script>
     <script src="scripts/side-panel.js"></script>
     <script src="scripts/radar-style.js"></script>
-
     <script type="text/javascript">
-      config(chart, paths)
+      config(chart)
       .then(radar => {
         radar_visualization(radar)
         return radar.entries

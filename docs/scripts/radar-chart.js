@@ -11,8 +11,8 @@ const chart = (() => ({
   },
   title: "",
   quadrants: [
-    { name: "Programming Languages" },
-    { name: "Techniques" },
+    { name: "Languages" },
+    { name: "Tools" },
     { name: "Frameworks" },
     { name: "Platforms" },
   ],
