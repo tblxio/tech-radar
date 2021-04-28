@@ -17,7 +17,7 @@ The quadrants of the radar, and the order of the rings inside the radar will be 
 |-----------|------------|------------------------|
 | 0         | Adopt      | Languages              |
 | 1         | Trial      | Tools                  |
-| 2         | Assess     | Frameworks             |
+| 2         | Assess     | Frameworks & Libraries |
 | 3         | Hold       | Platforms              |
 
 ### Setting up new data

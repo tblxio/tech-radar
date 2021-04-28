@@ -13,7 +13,7 @@ const chart = (() => ({
   quadrants: [
     { name: "Languages" },
     { name: "Tools" },
-    { name: "Frameworks" },
+    { name: "Frameworks & Libraries" },
     { name: "Platforms" },
   ],
   rings: [
