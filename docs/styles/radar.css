@@ -28,3 +28,12 @@ li {
 svg text[class*="legend"] {
   cursor: pointer;
 }
+
+a {
+  text-decoration: none;
+  color: #37c871;
+}
+
+a:hover {
+  color: #000000;
+}

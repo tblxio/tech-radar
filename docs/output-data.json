@@ -15,211 +15,211 @@
   },
   "data": [
     {
-      "id": "data__eslint__eslint",
-      "contents": "<h1 id=\"eslint\">ESLint</h1>\n<p>We use <a href=\"https://eslint.org\">ESLint</a> as a static code analysis tool for identifying problematic patterns found in JavaScript code.</p>\n",
-      "label": "ESLint",
-      "quadrant": 1,
-      "ring": 0,
-      "moved": 0,
-      "excerpt": "<p>We use <a href=\"https://eslint.org\">ESLint</a> as a static code analysis tool for identifying problematic patterns found in JavaScript code.</p>"
-    },
-    {
-      "id": "data__express.js__express.js",
-      "contents": "<h1 id=\"expressjs\">Express.JS</h1>\n<p><a href=\"https://expressjs.com\">Express.JS</a> is a minimal and flexible Node.JS web application framework that provides a robust set of features for design and build web applications and APIs. For example, It can be used for simple BFF (backend-for-frontend) implementations logic - targeting simple data aggregations and Auth services. And by doing that, reducing cognitive load on the Frontend Engineers and at the same time leveraging backend teams.</p>\n",
-      "label": "Express.JS",
-      "quadrant": 2,
-      "ring": 1,
-      "moved": 0,
-      "excerpt": "<p><a href=\"https://expressjs.com\">Express.JS</a> is a minimal and flexible Node.JS web application framework that provides a robust set of features for design and build web applications and APIs. For example, It can be used for simple BFF (backend-for-frontend) implementations logic - targeting simple data aggregations and Auth services. And by doing that, reducing cognitive load on the Frontend Engineers and at the same time leveraging backend teams.</p>"
-    },
-    {
-      "id": "data__jest__jest",
-      "contents": "<h1 id=\"jest\">Jest</h1>\n<p><a href=\"https://jestjs.io\">Jest</a> is a JavaScript test runner that is designed to ensure the correctness of any JavaScript code-base and gives us integrated code coverage reports, mocking libraries, and parallel test execution.\nIt is the most current used tool for Frontend unit testing and is being used by us and our Business Partners in most Frontend code-bases.</p>\n",
-      "label": "Jest",
-      "quadrant": 2,
-      "ring": 0,
-      "moved": 0,
-      "excerpt": "<p><a href=\"https://jestjs.io\">Jest</a> is a JavaScript test runner that is designed to ensure the correctness of any JavaScript code-base and gives us integrated code coverage reports, mocking libraries, and parallel test execution.\nIt is the most current used tool for Frontend unit testing and is being used by us and our Business Partners in most Frontend code-bases.</p>"
-    },
-    {
       "id": "data__babel__babel",
-      "contents": "<h1 id=\"babel\">Babel</h1>\n<p><a href=\"https://babeljs.io\">Babel</a> is a toolchain that is mainly used to transpile ESNext into a backward-compatible version of JavaScript. We strongly recommend using Babel because it enables us to use the latest features of ECMAScript in the browser.</p>\n",
+      "contents": "<h1 id=\"babel\">Babel</h1>\n<p><a href=\"https://babeljs.io\" target=\"_blank\">Babel</a> is a toolchain that is mainly used to transpile ESNext into a backward-compatible version of JavaScript. We strongly recommend using Babel because it enables us to use the latest features of ECMAScript in the browser.</p>\n",
       "label": "Babel",
       "quadrant": 1,
       "ring": 0,
       "moved": 0,
-      "excerpt": "<p><a href=\"https://babeljs.io\">Babel</a> is a toolchain that is mainly used to transpile ESNext into a backward-compatible version of JavaScript. We strongly recommend using Babel because it enables us to use the latest features of ECMAScript in the browser.</p>"
+      "excerpt": "<p><a href=\"https://babeljs.io\" target=\"_blank\">Babel</a> is a toolchain that is mainly used to transpile ESNext into a backward-compatible version of JavaScript. We strongly recommend using Babel because it enables us to use the latest features of ECMAScript in the browser.</p>"
     },
     {
       "id": "data__here-maps__here-maps",
-      "contents": "<h1 id=\"here-maps\">HERE Maps</h1>\n<p><a href=\"https://developer.here.com\">HERE Maps</a> is a web mapping navigation service that is currently being used by our Business partners and we support it.</p>\n",
+      "contents": "<h1 id=\"here-maps\">HERE Maps</h1>\n<p><a href=\"https://developer.here.com\" target=\"_blank\">HERE Maps</a> is a web mapping navigation service and is our strategy to use it as currently being used by our Business partners and we support it.</p>\n",
       "label": "HERE Maps",
       "quadrant": 1,
       "ring": 0,
       "moved": 0,
-      "excerpt": "<p><a href=\"https://developer.here.com\">HERE Maps</a> is a web mapping navigation service that is currently being used by our Business partners and we support it.</p>"
-    },
-    {
-      "id": "data__ngrx__ngrx",
-      "contents": "<h1 id=\"ngrx\">NgRx</h1>\n<p><a href=\"https://ngrx.io\">NgRx</a> provides reactive state management for Angular by following redux patterns. It is widely used by some of our Business Partners and therefore we support it.</p>\n",
-      "label": "NgRx",
-      "quadrant": 2,
-      "ring": 3,
-      "moved": 0,
-      "excerpt": "<p><a href=\"https://ngrx.io\">NgRx</a> provides reactive state management for Angular by following redux patterns. It is widely used by some of our Business Partners and therefore we support it.</p>"
+      "excerpt": "<p><a href=\"https://developer.here.com\" target=\"_blank\">HERE Maps</a> is a web mapping navigation service and is our strategy to use it as currently being used by our Business partners and we support it.</p>"
     },
     {
       "id": "data__angular__angular",
-      "contents": "<h1 id=\"angular\">Angular</h1>\n<p><a href=\"https://angular.io\">Angular</a> is the biggest and most-known Frontend framework used in Enterprise applications. We support it because It is been widely used by some of our Business Partners. However, we prefer using React over Angular since it helps us achieve better stability and control in our applications.</p>\n",
+      "contents": "<h1 id=\"angular\">Angular</h1>\n<p><a href=\"https://angular.io\" target=\"_blank\">Angular</a> is the biggest and most-known Frontend framework used in Enterprise applications. We support it because It is been widely used by some of our Business Partners. However, we prefer using React over Angular since it helps us achieve better stability and control in our applications.</p>\n",
       "label": "Angular",
       "quadrant": 2,
       "ring": 3,
       "moved": 0,
-      "excerpt": "<p><a href=\"https://angular.io\">Angular</a> is the biggest and most-known Frontend framework used in Enterprise applications. We support it because It is been widely used by some of our Business Partners. However, we prefer using React over Angular since it helps us achieve better stability and control in our applications.</p>"
+      "excerpt": "<p><a href=\"https://angular.io\" target=\"_blank\">Angular</a> is the biggest and most-known Frontend framework used in Enterprise applications. We support it because It is been widely used by some of our Business Partners. However, we prefer using React over Angular since it helps us achieve better stability and control in our applications.</p>"
     },
     {
-      "id": "data__nginx__nginx",
-      "contents": "<h1 id=\"nginx\">NGINX</h1>\n<p><a href=\"https://www.nginx.com\">NGINX</a> is a high‑performance and scalable web server, reverse proxy server, and web accelerator for combining the features of an HTTP load balancer, content cache, and more.</p>\n",
-      "label": "NGINX",
+      "id": "data__express.js__express.js",
+      "contents": "<h1 id=\"expressjs\">Express.JS</h1>\n<p><a href=\"https://expressjs.com\" target=\"_blank\">Express.JS</a> is a minimal and flexible Node.JS web application framework that provides a robust set of features for design and build web applications and APIs. For example, It can be used for simple BFF (backend-for-frontend) implementations logic - targeting simple data aggregations and Auth services. And by doing that, reducing cognitive load on the Frontend Engineers and at the same time leveraging backend teams.</p>\n",
+      "label": "Express.JS",
+      "quadrant": 2,
+      "ring": 1,
+      "moved": 0,
+      "excerpt": "<p><a href=\"https://expressjs.com\" target=\"_blank\">Express.JS</a> is a minimal and flexible Node.JS web application framework that provides a robust set of features for design and build web applications and APIs. For example, It can be used for simple BFF (backend-for-frontend) implementations logic - targeting simple data aggregations and Auth services. And by doing that, reducing cognitive load on the Frontend Engineers and at the same time leveraging backend teams.</p>"
+    },
+    {
+      "id": "data__jest__jest",
+      "contents": "<h1 id=\"jest\">Jest</h1>\n<p><a href=\"https://jestjs.io\" target=\"_blank\">Jest</a> is a JavaScript test runner that is designed to ensure the correctness of any JavaScript code-base and gives us integrated code coverage reports, mocking libraries, and parallel test execution.\nIt is the most current used tool for Frontend unit testing and is being used by us and our Business Partners in most Frontend code-bases.</p>\n",
+      "label": "Jest",
+      "quadrant": 2,
+      "ring": 0,
+      "moved": 0,
+      "excerpt": "<p><a href=\"https://jestjs.io\" target=\"_blank\">Jest</a> is a JavaScript test runner that is designed to ensure the correctness of any JavaScript code-base and gives us integrated code coverage reports, mocking libraries, and parallel test execution.\nIt is the most current used tool for Frontend unit testing and is being used by us and our Business Partners in most Frontend code-bases.</p>"
+    },
+    {
+      "id": "data__eslint__eslint",
+      "contents": "<h1 id=\"eslint\">ESLint</h1>\n<p>We use <a href=\"https://eslint.org\" target=\"_blank\">ESLint</a> as a static code analysis tool for identifying problematic patterns found in JavaScript code.</p>\n",
+      "label": "ESLint",
       "quadrant": 1,
       "ring": 0,
       "moved": 0,
-      "excerpt": "<p><a href=\"https://www.nginx.com\">NGINX</a> is a high&#x2011;performance and scalable web server, reverse proxy server, and web accelerator for combining the features of an HTTP load balancer, content cache, and more.</p>"
+      "excerpt": "<p>We use <a href=\"https://eslint.org\" target=\"_blank\">ESLint</a> as a static code analysis tool for identifying problematic patterns found in JavaScript code.</p>"
     },
     {
       "id": "data__google-maps__google-maps",
-      "contents": "<h1 id=\"google-maps\">Google Maps</h1>\n<p><a href=\"https://developers.google.com/maps\">Google Maps</a> is a web mapping tool that we support since It is currently being used by some Business partners.</p>\n",
+      "contents": "<h1 id=\"google-maps\">Google Maps</h1>\n<p><a href=\"https://developers.google.com/maps\" target=\"_blank\">Google Maps</a> is a web mapping tool that we do not support at the moment.</p>\n",
       "label": "Google Maps",
       "quadrant": 1,
       "ring": 3,
       "moved": 0,
-      "excerpt": "<p><a href=\"https://developers.google.com/maps\">Google Maps</a> is a web mapping tool that we support since It is currently being used by some Business partners.</p>"
-    },
-    {
-      "id": "data__next.js__next.js",
-      "contents": "<h1 id=\"nextjs\">Next.JS</h1>\n<p><a href=\"https://nextjs.org\">Next.JS</a> provides an abstraction on top of React tooling - Convention over configuration. We should assess it for the development of POCs and internal tools plus improving time-to-market. </p>\n",
-      "label": "Next.JS",
-      "quadrant": 2,
-      "ring": 2,
-      "moved": 0,
-      "excerpt": "<p><a href=\"https://nextjs.org\">Next.JS</a> provides an abstraction on top of React tooling - Convention over configuration. We should assess it for the development of POCs and internal tools plus improving time-to-market. </p>"
+      "excerpt": "<p><a href=\"https://developers.google.com/maps\" target=\"_blank\">Google Maps</a> is a web mapping tool that we do not support at the moment.</p>"
     },
     {
       "id": "data__mapbox__mapbox",
-      "contents": "<h1 id=\"mapbox\">Mapbox</h1>\n<p><a href=\"https://www.mapbox.com\">Mapbox</a> is a location data platform that powers the maps and location services. Given the lack of usage by our Business Partners, we do not support it at the moment.</p>\n",
+      "contents": "<h1 id=\"mapbox\">Mapbox</h1>\n<p><a href=\"https://www.mapbox.com\" target=\"_blank\">Mapbox</a> is a location data platform that powers the maps and location services. Given the lack of usage by our Business Partners, we do not support it at the moment.</p>\n",
       "label": "Mapbox",
       "quadrant": 1,
       "ring": 3,
       "moved": 0,
-      "excerpt": "<p><a href=\"https://www.mapbox.com\">Mapbox</a> is a location data platform that powers the maps and location services. Given the lack of usage by our Business Partners, we do not support it at the moment.</p>"
+      "excerpt": "<p><a href=\"https://www.mapbox.com\" target=\"_blank\">Mapbox</a> is a location data platform that powers the maps and location services. Given the lack of usage by our Business Partners, we do not support it at the moment.</p>"
     },
     {
-      "id": "data__npm__npm",
-      "contents": "<h1 id=\"npm\">npm</h1>\n<p><a href=\"https://www.npmjs.com\">Node Package Manager</a> is the default package manager and since Node.JS is heavily dependant on NPM, we have to support it.</p>\n",
-      "label": "npm",
+      "id": "data__nginx__nginx",
+      "contents": "<h1 id=\"nginx\">NGINX</h1>\n<p><a href=\"https://www.nginx.com\" target=\"_blank\">NGINX</a> is a high‑performance and scalable web server, reverse proxy server, and web accelerator for combining the features of an HTTP load balancer, content cache, and more.</p>\n",
+      "label": "NGINX",
       "quadrant": 1,
       "ring": 0,
       "moved": 0,
-      "excerpt": "<p><a href=\"https://www.npmjs.com\">Node Package Manager</a> is the default package manager and since Node.JS is heavily dependant on NPM, we have to support it.</p>"
+      "excerpt": "<p><a href=\"https://www.nginx.com\" target=\"_blank\">NGINX</a> is a high&#x2011;performance and scalable web server, reverse proxy server, and web accelerator for combining the features of an HTTP load balancer, content cache, and more.</p>"
+    },
+    {
+      "id": "data__ngrx__ngrx",
+      "contents": "<h1 id=\"ngrx\">NgRx</h1>\n<p><a href=\"https://ngrx.io\" target=\"_blank\">NgRx</a> provides reactive state management for Angular by following redux patterns. It is widely used by some of our Business Partners and therefore we support it.</p>\n",
+      "label": "NgRx",
+      "quadrant": 2,
+      "ring": 3,
+      "moved": 0,
+      "excerpt": "<p><a href=\"https://ngrx.io\" target=\"_blank\">NgRx</a> provides reactive state management for Angular by following redux patterns. It is widely used by some of our Business Partners and therefore we support it.</p>"
     },
     {
       "id": "data__node.js__node.js",
-      "contents": "<h1 id=\"nodejs\">Node.JS</h1>\n<p><a href=\"https://nodejs.org\">Node.JS</a> is an open-source, cross-platform JavaScript runtime environment that runs on the V8 engine and executes JavaScript code outside a web browser. We successfully use it since It’s a good choice for restful APIs, real-time purposes/situations where many concurrent connections are expected.</p>\n",
+      "contents": "<h1 id=\"nodejs\">Node.JS</h1>\n<p><a href=\"https://nodejs.org\" target=\"_blank\">Node.JS</a> is an open-source, cross-platform JavaScript runtime environment that runs on the V8 engine and executes JavaScript code outside a web browser. We successfully use it since It’s a good choice for restful APIs, real-time purposes/situations where many concurrent connections are expected.</p>\n",
       "label": "Node.JS",
       "quadrant": 1,
       "ring": 0,
       "moved": 0,
-      "excerpt": "<p><a href=\"https://nodejs.org\">Node.JS</a> is an open-source, cross-platform JavaScript runtime environment that runs on the V8 engine and executes JavaScript code outside a web browser. We successfully use it since It&#x2019;s a good choice for restful APIs, real-time purposes/situations where many concurrent connections are expected.</p>"
+      "excerpt": "<p><a href=\"https://nodejs.org\" target=\"_blank\">Node.JS</a> is an open-source, cross-platform JavaScript runtime environment that runs on the V8 engine and executes JavaScript code outside a web browser. We successfully use it since It&#x2019;s a good choice for restful APIs, real-time purposes/situations where many concurrent connections are expected.</p>"
     },
     {
-      "id": "data__prettier__prettier",
-      "contents": "<h1 id=\"prettier\">Prettier</h1>\n<p>We use <a href=\"https://prettier.io\">Prettier</a> to have a common code style guide that is valuable for our projects and teams.</p>\n",
-      "label": "Prettier",
+      "id": "data__next.js__next.js",
+      "contents": "<h1 id=\"nextjs\">Next.JS</h1>\n<p><a href=\"https://nextjs.org\" target=\"_blank\">Next.JS</a> provides an abstraction on top of React tooling - Convention over configuration. We should assess it for the development of POCs and internal tools plus improving time-to-market. </p>\n",
+      "label": "Next.JS",
+      "quadrant": 2,
+      "ring": 2,
+      "moved": 0,
+      "excerpt": "<p><a href=\"https://nextjs.org\" target=\"_blank\">Next.JS</a> provides an abstraction on top of React tooling - Convention over configuration. We should assess it for the development of POCs and internal tools plus improving time-to-market. </p>"
+    },
+    {
+      "id": "data__npm__npm",
+      "contents": "<h1 id=\"npm\">npm</h1>\n<p><a href=\"https://www.npmjs.com\" target=\"_blank\">Node Package Manager</a> is the default package manager and since Node.JS is heavily dependant on NPM, we have to support it.</p>\n",
+      "label": "npm",
       "quadrant": 1,
       "ring": 0,
       "moved": 0,
-      "excerpt": "<p>We use <a href=\"https://prettier.io\">Prettier</a> to have a common code style guide that is valuable for our projects and teams.</p>"
+      "excerpt": "<p><a href=\"https://www.npmjs.com\" target=\"_blank\">Node Package Manager</a> is the default package manager and since Node.JS is heavily dependant on NPM, we have to support it.</p>"
     },
     {
       "id": "data__react.js__react.js",
-      "contents": "<h1 id=\"reactjs\">React.JS</h1>\n<p><a href=\"https://reactjs.org\">React.JS</a> makes it painless to create interactive UIs and we see great potential to build upcoming projects with React. It follows functional programming paradigms like immutability, unidirectional data flow, and function composition that provide better code readability, fewer errors, and higher confidence in the Application life cycle which leads to saving overall costs in development and production.</p>\n",
+      "contents": "<h1 id=\"reactjs\">React.JS</h1>\n<p><a href=\"https://reactjs.org\" target=\"_blank\">React.JS</a> makes it painless to create interactive UIs and we see great potential to build upcoming projects with React. It follows functional programming paradigms like immutability, unidirectional data flow, and function composition that provide better code readability, fewer errors, and higher confidence in the Application life cycle which leads to saving overall costs in development and production.</p>\n",
       "label": "React.JS",
       "quadrant": 2,
       "ring": 0,
       "moved": 0,
-      "excerpt": "<p><a href=\"https://reactjs.org\">React.JS</a> makes it painless to create interactive UIs and we see great potential to build upcoming projects with React. It follows functional programming paradigms like immutability, unidirectional data flow, and function composition that provide better code readability, fewer errors, and higher confidence in the Application life cycle which leads to saving overall costs in development and production.</p>"
+      "excerpt": "<p><a href=\"https://reactjs.org\" target=\"_blank\">React.JS</a> makes it painless to create interactive UIs and we see great potential to build upcoming projects with React. It follows functional programming paradigms like immutability, unidirectional data flow, and function composition that provide better code readability, fewer errors, and higher confidence in the Application life cycle which leads to saving overall costs in development and production.</p>"
     },
     {
-      "id": "data__storybook__storybook",
-      "contents": "<h1 id=\"storybook\">Storybook</h1>\n<p><a href=\"https://storybook.js.org\">Storybook</a> provides documentation and component readability to improve the developer experience via developing UI components in isolation.</p>\n",
-      "label": "Storybook",
+      "id": "data__prettier__prettier",
+      "contents": "<h1 id=\"prettier\">Prettier</h1>\n<p>We use <a href=\"https://prettier.io\" target=\"_blank\">Prettier</a> to have a common code style guide that is valuable for our projects and teams.</p>\n",
+      "label": "Prettier",
       "quadrant": 1,
       "ring": 0,
       "moved": 0,
-      "excerpt": "<p><a href=\"https://storybook.js.org\">Storybook</a> provides documentation and component readability to improve the developer experience via developing UI components in isolation.</p>"
+      "excerpt": "<p>We use <a href=\"https://prettier.io\" target=\"_blank\">Prettier</a> to have a common code style guide that is valuable for our projects and teams.</p>"
     },
     {
       "id": "data__redux__redux",
-      "contents": "<h1 id=\"redux\">Redux</h1>\n<p><a href=\"http://redux.js.org\">Redux</a> helps us to maintain the state of our Frontend applications in a more predictable and clearer way by following the Flux pattern and functional programming concepts like immutability and unidirectional data flows which are highly relevant to avoid errors in large-scale stateful applications. Currently, we use Redux only in our React projects.</p>\n",
+      "contents": "<h1 id=\"redux\">Redux</h1>\n<p><a href=\"http://redux.js.org\" target=\"_blank\">Redux</a> helps us to maintain the state of our Frontend applications in a more predictable and clearer way by following the Flux pattern and functional programming concepts like immutability and unidirectional data flows which are highly relevant to avoid errors in large-scale stateful applications. Currently, we use Redux only in our React projects.</p>\n",
       "label": "Redux",
       "quadrant": 2,
       "ring": 0,
       "moved": 0,
-      "excerpt": "<p><a href=\"http://redux.js.org\">Redux</a> helps us to maintain the state of our Frontend applications in a more predictable and clearer way by following the Flux pattern and functional programming concepts like immutability and unidirectional data flows which are highly relevant to avoid errors in large-scale stateful applications. Currently, we use Redux only in our React projects.</p>"
-    },
-    {
-      "id": "data__styled-components__styled-components",
-      "contents": "<h1 id=\"styled-components\">Styled-components</h1>\n<p><a href=\"https://styled-components.com\">Styled-components</a> is our go-to solution for React code-bases. With some solid production experience under our belts, we can now adopt it since it is the solution to enhance CSS for styling React component systems, by providing a better Developer Experience and following methodologies of Isolation, scoping, and atomic CSS.</p>\n",
-      "label": "Styled-components",
-      "quadrant": 2,
-      "ring": 0,
-      "moved": 0,
-      "excerpt": "<p><a href=\"https://styled-components.com\">Styled-components</a> is our go-to solution for React code-bases. With some solid production experience under our belts, we can now adopt it since it is the solution to enhance CSS for styling React component systems, by providing a better Developer Experience and following methodologies of Isolation, scoping, and atomic CSS.</p>"
-    },
-    {
-      "id": "data__sass__sass",
-      "contents": "<h1 id=\"sass\">Sass</h1>\n<p><a href=\"http://sass-lang.com\">Sass</a> is a preprocessor scripting language and a powerful professional-grade CSS extension that is interpreted/compiled into CSS. It was created to respond to developer needs that were not supported by native CSS, at the time. Although more modern and better alternatives are out there (mainly targeting atomic CSS), since Sass is widely used within our Business Partners code-bases, we have to support it.</p>\n",
-      "label": "Sass",
-      "quadrant": 0,
-      "ring": 3,
-      "moved": 0,
-      "excerpt": "<p><a href=\"http://sass-lang.com\">Sass</a> is a preprocessor scripting language and a powerful professional-grade CSS extension that is interpreted/compiled into CSS. It was created to respond to developer needs that were not supported by native CSS, at the time. Although more modern and better alternatives are out there (mainly targeting atomic CSS), since Sass is widely used within our Business Partners code-bases, we have to support it.</p>"
+      "excerpt": "<p><a href=\"http://redux.js.org\" target=\"_blank\">Redux</a> helps us to maintain the state of our Frontend applications in a more predictable and clearer way by following the Flux pattern and functional programming concepts like immutability and unidirectional data flows which are highly relevant to avoid errors in large-scale stateful applications. Currently, we use Redux only in our React projects.</p>"
     },
     {
       "id": "data__typescript__typescript",
-      "contents": "<h1 id=\"typescript\">TypeScript</h1>\n<p><a href=\"https://www.typescriptlang.org\">TypeScript</a> Is an open-source language, created by Microsoft to respond to the challenges of dealing with large applications built on complex JavaScript code-base. It provides highly productive development tools and practices by adding static type definitions and since it compiles to JavaScript, it can make use of most of its features in the browser, and in the server through Node.js or Deno.</p>\n",
+      "contents": "<h1 id=\"typescript\">TypeScript</h1>\n<p><a href=\"https://www.typescriptlang.org\" target=\"_blank\">TypeScript</a> Is an open-source language, created by Microsoft to respond to the challenges of dealing with large applications built on complex JavaScript code-base. It provides highly productive development tools and practices by adding static type definitions and since it compiles to JavaScript, it can make use of most of its features in the browser, and in the server through Node.js or Deno.</p>\n",
       "label": "TypeScript",
       "quadrant": 0,
       "ring": 0,
       "moved": 0,
-      "excerpt": "<p><a href=\"https://www.typescriptlang.org\">TypeScript</a> Is an open-source language, created by Microsoft to respond to the challenges of dealing with large applications built on complex JavaScript code-base. It provides highly productive development tools and practices by adding static type definitions and since it compiles to JavaScript, it can make use of most of its features in the browser, and in the server through Node.js or Deno.</p>"
+      "excerpt": "<p><a href=\"https://www.typescriptlang.org\" target=\"_blank\">TypeScript</a> Is an open-source language, created by Microsoft to respond to the challenges of dealing with large applications built on complex JavaScript code-base. It provides highly productive development tools and practices by adding static type definitions and since it compiles to JavaScript, it can make use of most of its features in the browser, and in the server through Node.js or Deno.</p>"
     },
     {
-      "id": "data__testing-library__testing-library",
-      "contents": "<h1 id=\"testing-library\">Testing Library</h1>\n<p>We use <a href=\"https://testing-library.com\">Testing Library</a> as a solution for testing React components. It provides light utility functions on top of react-dom in a way that encourages better testing practices.</p>\n",
-      "label": "Testing Library",
-      "quadrant": 2,
+      "id": "data__storybook__storybook",
+      "contents": "<h1 id=\"storybook\">Storybook</h1>\n<p><a href=\"https://storybook.js.org\" target=\"_blank\">Storybook</a> provides documentation and component readability to improve the developer experience via developing UI components in isolation.</p>\n",
+      "label": "Storybook",
+      "quadrant": 1,
       "ring": 0,
       "moved": 0,
-      "excerpt": "<p>We use <a href=\"https://testing-library.com\">Testing Library</a> as a solution for testing React components. It provides light utility functions on top of react-dom in a way that encourages better testing practices.</p>"
+      "excerpt": "<p><a href=\"https://storybook.js.org\" target=\"_blank\">Storybook</a> provides documentation and component readability to improve the developer experience via developing UI components in isolation.</p>"
+    },
+    {
+      "id": "data__sass__sass",
+      "contents": "<h1 id=\"sass\">Sass</h1>\n<p><a href=\"http://sass-lang.com\" target=\"_blank\">Sass</a> is a preprocessor scripting language and a powerful professional-grade CSS extension that is interpreted/compiled into CSS. It was created to respond to developer needs that were not supported by native CSS, at the time. Although more modern and better alternatives are out there (mainly targeting atomic CSS), since Sass is widely used within our Business Partners code-bases, we have to support it.</p>\n",
+      "label": "Sass",
+      "quadrant": 0,
+      "ring": 3,
+      "moved": 0,
+      "excerpt": "<p><a href=\"http://sass-lang.com\" target=\"_blank\">Sass</a> is a preprocessor scripting language and a powerful professional-grade CSS extension that is interpreted/compiled into CSS. It was created to respond to developer needs that were not supported by native CSS, at the time. Although more modern and better alternatives are out there (mainly targeting atomic CSS), since Sass is widely used within our Business Partners code-bases, we have to support it.</p>"
     },
     {
       "id": "data__webpack__webpack",
-      "contents": "<h1 id=\"webpack\">Webpack</h1>\n<p><a href=\"https://webpack.js.org\">Webpack</a> is the standard module bundler for most modern frontend frameworks. We have adopted Webpack for nearly every SPA because it gives us great benefits.</p>\n",
+      "contents": "<h1 id=\"webpack\">Webpack</h1>\n<p><a href=\"https://webpack.js.org\" target=\"_blank\">Webpack</a> is the standard module bundler for most modern frontend frameworks. We have adopted Webpack for nearly every SPA because it gives us great benefits.</p>\n",
       "label": "Webpack",
       "quadrant": 1,
       "ring": 0,
       "moved": 0,
-      "excerpt": "<p><a href=\"https://webpack.js.org\">Webpack</a> is the standard module bundler for most modern frontend frameworks. We have adopted Webpack for nearly every SPA because it gives us great benefits.</p>"
+      "excerpt": "<p><a href=\"https://webpack.js.org\" target=\"_blank\">Webpack</a> is the standard module bundler for most modern frontend frameworks. We have adopted Webpack for nearly every SPA because it gives us great benefits.</p>"
+    },
+    {
+      "id": "data__testing-library__testing-library",
+      "contents": "<h1 id=\"testing-library\">Testing Library</h1>\n<p>We use <a href=\"https://testing-library.com\" target=\"_blank\">Testing Library</a> as a solution for testing React components. It provides light utility functions on top of react-dom in a way that encourages better testing practices.</p>\n",
+      "label": "Testing Library",
+      "quadrant": 2,
+      "ring": 0,
+      "moved": 0,
+      "excerpt": "<p>We use <a href=\"https://testing-library.com\" target=\"_blank\">Testing Library</a> as a solution for testing React components. It provides light utility functions on top of react-dom in a way that encourages better testing practices.</p>"
     },
     {
       "id": "data__yarn__yarn",
-      "contents": "<h1 id=\"yarn\">Yarn</h1>\n<p><a href=\"https://yarnpkg.com\">Yarn</a> is a fast, reliable, and secure dependency management and It is tb.lx Frontend tool of choice.</p>\n",
+      "contents": "<h1 id=\"yarn\">Yarn</h1>\n<p><a href=\"https://yarnpkg.com\" target=\"_blank\">Yarn</a> is a fast, reliable, and secure dependency management and It is tb.lx Frontend tool of choice.</p>\n",
       "label": "Yarn",
       "quadrant": 1,
       "ring": 0,
       "moved": 0,
-      "excerpt": "<p><a href=\"https://yarnpkg.com\">Yarn</a> is a fast, reliable, and secure dependency management and It is tb.lx Frontend tool of choice.</p>"
+      "excerpt": "<p><a href=\"https://yarnpkg.com\" target=\"_blank\">Yarn</a> is a fast, reliable, and secure dependency management and It is tb.lx Frontend tool of choice.</p>"
+    },
+    {
+      "id": "data__styled-components__styled-components",
+      "contents": "<h1 id=\"styled-components\">Styled-components</h1>\n<p><a href=\"https://styled-components.com\" target=\"_blank\">Styled-components</a> is our go-to solution for React code-bases. With some solid production experience under our belts, we can now adopt it since it is the solution to enhance CSS for styling React component systems, by providing a better Developer Experience and following methodologies of Isolation, scoping, and atomic CSS.</p>\n",
+      "label": "Styled-components",
+      "quadrant": 2,
+      "ring": 0,
+      "moved": 0,
+      "excerpt": "<p><a href=\"https://styled-components.com\" target=\"_blank\">Styled-components</a> is our go-to solution for React code-bases. With some solid production experience under our belts, we can now adopt it since it is the solution to enhance CSS for styling React component systems, by providing a better Developer Experience and following methodologies of Isolation, scoping, and atomic CSS.</p>"
     }
   ]
 }

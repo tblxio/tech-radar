@@ -7,4 +7,4 @@ moved: 0
 
 # npm
 
-[Node Package Manager](https://www.npmjs.com) is the default package manager and since Node.JS is heavily dependant on NPM, we have to support it.
+<a href="https://www.npmjs.com" target="_blank">Node Package Manager</a> is the default package manager and since Node.JS is heavily dependant on NPM, we have to support it.

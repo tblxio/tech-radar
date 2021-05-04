@@ -7,4 +7,4 @@ moved: 0
 
 # Storybook
 
-[Storybook](https://storybook.js.org) provides documentation and component readability to improve the developer experience via developing UI components in isolation.
+<a href="https://storybook.js.org" target="_blank">Storybook</a> provides documentation and component readability to improve the developer experience via developing UI components in isolation.

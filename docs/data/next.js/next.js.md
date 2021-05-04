@@ -7,4 +7,4 @@ moved: 0
 
 # Next.JS
 
-[Next.JS](https://nextjs.org) provides an abstraction on top of React tooling - Convention over configuration. We should assess it for the development of POCs and internal tools plus improving time-to-market. 
+<a href="https://nextjs.org" target="_blank">Next.JS</a> provides an abstraction on top of React tooling - Convention over configuration. We should assess it for the development of POCs and internal tools plus improving time-to-market. 
