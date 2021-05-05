@@ -27,7 +27,10 @@
     "**/yargs-parser": "^18.1.2",
     "**/http-proxy": "^1.18.1",
     "axios": "^0.21.1",
-    "socket.io": "^2.4.0"
+    "socket.io": "^2.4.0",
+    "**/xmlhttprequest-ssl": "^1.6.2",
+    "**/extend": "^3.0.2",
+    "**/debug": "^3.1.0"
   },
   "dependencies": {
     "markdown-json": "^1.5.1"
