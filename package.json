@@ -20,7 +20,7 @@
   },
   "resolutions": {
     "**/object-path": "^0.11.5",
-    "**/lodash": "^4.17.19",
+    "**/lodash": "^4.17.21",
     "**/kind-of": "^6.0.3",
     "**/acorn": "^7.1.1",
     "**/minimist": "^1.2.3",
@@ -30,7 +30,9 @@
     "socket.io": "^2.4.0",
     "**/xmlhttprequest-ssl": "^1.6.2",
     "**/extend": "^3.0.2",
-    "**/debug": "^3.1.0"
+    "**/debug": "^3.1.0",
+    "hosted-git-info": "^3.0.8",
+    "ua-parser-js": "^0.7.24"
   },
   "dependencies": {
     "markdown-json": "^1.5.1"
