@@ -15,15 +15,6 @@
   },
   "data": [
     {
-      "id": "data__angular__angular",
-      "contents": "<h1 id=\"angular\">Angular</h1>\n<p><a href=\"https://angular.io\" target=\"_blank\">Angular</a> is the biggest and most-known Frontend framework used in Enterprise applications. We support it because It is been widely used by some of our Business Partners. However, we prefer using React over Angular since it helps us achieve better stability and control in our applications.</p>\n",
-      "label": "Angular",
-      "quadrant": 2,
-      "ring": 3,
-      "moved": 0,
-      "excerpt": "<p><a href=\"https://angular.io\" target=\"_blank\">Angular</a> is the biggest and most-known Frontend framework used in Enterprise applications. We support it because It is been widely used by some of our Business Partners. However, we prefer using React over Angular since it helps us achieve better stability and control in our applications.</p>"
-    },
-    {
       "id": "data__adx__adx",
       "contents": "<h1 id=\"adx\">ADX</h1>\n<p><a href=\"https://azure.microsoft.com/en-us/services/data-explorer/\" target=\"_blank\">Azure Data Explorer (ADX)</a> is a fully-managed big data analytics cloud platform and data-exploration service, developed by Microsoft, that ingests structured, semi-structured (like JSON) and unstructured data (like free-text).</p>\n<p>It is offered as Platform as a Service (PaaS) as part of Microsoft Azure platform.</p>\n<p>ADX is a common solution used within Daimler environment.</p>\n",
       "label": "ADX",
@@ -51,13 +42,13 @@
       "excerpt": "<p><a href=\"https://www.ansible.com/\" target=\"_blank\">Ansible</a> is a component based infrastructure automation tool that \ncan be used to configure cloud assets and run commands on provisioned machines. </p>"
     },
     {
-      "id": "data__babel__babel",
-      "contents": "<h1 id=\"babel\">Babel</h1>\n<p><a href=\"https://babeljs.io\" target=\"_blank\">Babel</a> is a toolchain that is mainly used to transpile ESNext into a backward-compatible version of JavaScript. We strongly recommend using Babel because it enables us to use the latest features of ECMAScript in the browser.</p>\n",
-      "label": "Babel",
-      "quadrant": 1,
-      "ring": 0,
+      "id": "data__angular__angular",
+      "contents": "<h1 id=\"angular\">Angular</h1>\n<p><a href=\"https://angular.io\" target=\"_blank\">Angular</a> is the biggest and most-known Frontend framework used in Enterprise applications. We support it because It is been widely used by some of our Business Partners. However, we prefer using React over Angular since it helps us achieve better stability and control in our applications.</p>\n",
+      "label": "Angular",
+      "quadrant": 2,
+      "ring": 3,
       "moved": 0,
-      "excerpt": "<p><a href=\"https://babeljs.io\" target=\"_blank\">Babel</a> is a toolchain that is mainly used to transpile ESNext into a backward-compatible version of JavaScript. We strongly recommend using Babel because it enables us to use the latest features of ECMAScript in the browser.</p>"
+      "excerpt": "<p><a href=\"https://angular.io\" target=\"_blank\">Angular</a> is the biggest and most-known Frontend framework used in Enterprise applications. We support it because It is been widely used by some of our Business Partners. However, we prefer using React over Angular since it helps us achieve better stability and control in our applications.</p>"
     },
     {
       "id": "data__azure-pipelines__azure-pipelines",
@@ -69,13 +60,13 @@
       "excerpt": "<p><a href=\"https://azure.microsoft.com/en-us/services/devops/pipelines/\" target=\"_blank\">Azure Pipelines</a> is the CI/CD \ntool of from the Azure DevOps platform.</p>"
     },
     {
-      "id": "data__blackduck__blackduck",
-      "contents": "<h1 id=\"blackduck\">BlackDuck</h1>\n<p><a href=\"https://www.blackducksoftware.com/\" target=\"_blank\">Black Duck</a> is a complete open source management solution, which fully discovers all open source in your code. It can map components to known vulnerabilities, and identify license and component quality risks. You can use Black Duck to set and enforce open source policies, and integrate open source management into your DevOps environment. Additionally, Black Duck monitors and alerts you when new threats are reported.</p>\n<p>All projects should be scanned (and fixed, if needed) before being handed over to business partners.</p>\n",
-      "label": "BlackDuck",
+      "id": "data__babel__babel",
+      "contents": "<h1 id=\"babel\">Babel</h1>\n<p><a href=\"https://babeljs.io\" target=\"_blank\">Babel</a> is a toolchain that is mainly used to transpile ESNext into a backward-compatible version of JavaScript. We strongly recommend using Babel because it enables us to use the latest features of ECMAScript in the browser.</p>\n",
+      "label": "Babel",
       "quadrant": 1,
       "ring": 0,
       "moved": 0,
-      "excerpt": "<p><a href=\"https://www.blackducksoftware.com/\" target=\"_blank\">Black Duck</a> is a complete open source management solution, which fully discovers all open source in your code. It can map components to known vulnerabilities, and identify license and component quality risks. You can use Black Duck to set and enforce open source policies, and integrate open source management into your DevOps environment. Additionally, Black Duck monitors and alerts you when new threats are reported.</p>"
+      "excerpt": "<p><a href=\"https://babeljs.io\" target=\"_blank\">Babel</a> is a toolchain that is mainly used to transpile ESNext into a backward-compatible version of JavaScript. We strongly recommend using Babel because it enables us to use the latest features of ECMAScript in the browser.</p>"
     },
     {
       "id": "data__checkov__checkov",
@@ -87,13 +78,22 @@
       "excerpt": "<p><a href=\"https://github.com/nimrodkor/checkov\" target=\"_blank\">Checkov</a> is a static code analysis tool for \ninfrastructure-as-code. It scans cloud infrastructure provisioned using Terraform, Terraform plan, Cloudformation, \nKubernetes, Dockerfile, Serverless or ARM Templates and detects security and compliance misconfigurations.</p>"
     },
     {
-      "id": "data__coverity__coverity",
-      "contents": "<h1 id=\"coverity\">Coverity</h1>\n<p><a href=\"https://scan.coverity.com/\" target=\"_blank\">Coverity</a> is a proprietary static code analysis tool from Synopsys. This product enables engineers and security teams to find and fix software defects. </p>\n<p>All projects should be scanned and assessed before being handed over to business partners.</p>\n",
-      "label": "Coverity",
+      "id": "data__blackduck__blackduck",
+      "contents": "<h1 id=\"blackduck\">BlackDuck</h1>\n<p><a href=\"https://www.blackducksoftware.com/\" target=\"_blank\">Black Duck</a> is a complete open source management solution, which fully discovers all open source in your code. It can map components to known vulnerabilities, and identify license and component quality risks. You can use Black Duck to set and enforce open source policies, and integrate open source management into your DevOps environment. Additionally, Black Duck monitors and alerts you when new threats are reported.</p>\n<p>All projects should be scanned (and fixed, if needed) before being handed over to business partners.</p>\n",
+      "label": "BlackDuck",
       "quadrant": 1,
       "ring": 0,
       "moved": 0,
-      "excerpt": "<p><a href=\"https://scan.coverity.com/\" target=\"_blank\">Coverity</a> is a proprietary static code analysis tool from Synopsys. This product enables engineers and security teams to find and fix software defects. </p>"
+      "excerpt": "<p><a href=\"https://www.blackducksoftware.com/\" target=\"_blank\">Black Duck</a> is a complete open source management solution, which fully discovers all open source in your code. It can map components to known vulnerabilities, and identify license and component quality risks. You can use Black Duck to set and enforce open source policies, and integrate open source management into your DevOps environment. Additionally, Black Duck monitors and alerts you when new threats are reported.</p>"
+    },
+    {
+      "id": "data__azure-api-management__azure-api-management",
+      "contents": "<h1 id=\"postgresql\">PostgreSQL</h1>\n<p><a href=\"https://docs.microsoft.com/en-us/azure/api-management/api-management-key-concepts\" target=\"_blank\">Azure API Management (APIM)</a> is a way to create consistent and modern API gateways for existing back-end services.\nAPI Management helps organizations publish APIs to external, partner, and internal developers to unlock the potential of their data and services. Businesses everywhere are looking to extend their operations as a digital platform, creating new channels, finding new customers and driving deeper engagement with existing ones. API Management provides the core competencies to ensure a successful API program through developer engagement, business insights, analytics, security, and protection. You can use Azure API Management to take any backend and launch a full-fledged API program based on it.</p>\n",
+      "label": "Azure API Management",
+      "quadrant": 1,
+      "ring": 0,
+      "moved": 1,
+      "excerpt": "<p><a href=\"https://docs.microsoft.com/en-us/azure/api-management/api-management-key-concepts\" target=\"_blank\">Azure API Management (APIM)</a> is a way to create consistent and modern API gateways for existing back-end services.\nAPI Management helps organizations publish APIs to external, partner, and internal developers to unlock the potential of their data and services. Businesses everywhere are looking to extend their operations as a digital platform, creating new channels, finding new customers and driving deeper engagement with existing ones. API Management provides the core competencies to ensure a successful API program through developer engagement, business insights, analytics, security, and protection. You can use Azure API Management to take any backend and launch a full-fledged API program based on it.</p>"
     },
     {
       "id": "data__docker__docker",
@@ -105,6 +105,15 @@
       "excerpt": "<p><a href=\"https://www.docker.com/products/container-runtime\" target=\"_blank\">Docker</a> is used as container runtime on \ndeveloper machines to create and test containers before shipping to Kubernetes.</p>"
     },
     {
+      "id": "data__coverity__coverity",
+      "contents": "<h1 id=\"coverity\">Coverity</h1>\n<p><a href=\"https://scan.coverity.com/\" target=\"_blank\">Coverity</a> is a proprietary static code analysis tool from Synopsys. This product enables engineers and security teams to find and fix software defects. </p>\n<p>All projects should be scanned and assessed before being handed over to business partners.</p>\n",
+      "label": "Coverity",
+      "quadrant": 1,
+      "ring": 0,
+      "moved": 0,
+      "excerpt": "<p><a href=\"https://scan.coverity.com/\" target=\"_blank\">Coverity</a> is a proprietary static code analysis tool from Synopsys. This product enables engineers and security teams to find and fix software defects. </p>"
+    },
+    {
       "id": "data__eslint__eslint",
       "contents": "<h1 id=\"eslint\">ESLint</h1>\n<p>We use <a href=\"https://eslint.org\" target=\"_blank\">ESLint</a> as a static code analysis tool for identifying problematic patterns found in JavaScript code.</p>\n",
       "label": "ESLint",
@@ -112,15 +121,6 @@
       "ring": 0,
       "moved": 0,
       "excerpt": "<p>We use <a href=\"https://eslint.org\" target=\"_blank\">ESLint</a> as a static code analysis tool for identifying problematic patterns found in JavaScript code.</p>"
-    },
-    {
-      "id": "data__grafana__grafana",
-      "contents": "<h1 id=\"grafana\">Grafana</h1>\n<p><a href=\"https://grafana.com/\" target=\"_blank\">Grafana</a> is an open source platform for monitoring and observability.\nIt allows us to query, visualize, alert on and understand metrics no matter where they are stored. </p>\n",
-      "label": "Grafana",
-      "quadrant": 1,
-      "ring": 0,
-      "moved": 0,
-      "excerpt": "<p><a href=\"https://grafana.com/\" target=\"_blank\">Grafana</a> is an open source platform for monitoring and observability.\nIt allows us to query, visualize, alert on and understand metrics no matter where they are stored. </p>"
     },
     {
       "id": "data__express.js__express.js",
@@ -132,13 +132,22 @@
       "excerpt": "<p><a href=\"https://expressjs.com\" target=\"_blank\">Express.JS</a> is a minimal and flexible Node.JS web application framework that provides a robust set of features for design and build web applications and APIs. For example, It can be used for simple BFF (backend-for-frontend) implementations logic - targeting simple data aggregations and Auth services. And by doing that, reducing cognitive load on the Frontend Engineers and at the same time leveraging backend teams.</p>"
     },
     {
-      "id": "data__helm__helm",
-      "contents": "<h1 id=\"helm\">Helm</h1>\n<p><a href=\"https://helm.sh/\" target=\"_blank\">Helm</a> is used install and upgrade Kubernetes applications. It is able to \ntemplate K8S resources used by an app and version each release of those apps.</p>\n",
-      "label": "Helm",
+      "id": "data__grafana__grafana",
+      "contents": "<h1 id=\"grafana\">Grafana</h1>\n<p><a href=\"https://grafana.com/\" target=\"_blank\">Grafana</a> is an open source platform for monitoring and observability.\nIt allows us to query, visualize, alert on and understand metrics no matter where they are stored. </p>\n",
+      "label": "Grafana",
       "quadrant": 1,
-      "ring": 1,
-      "moved": 1,
-      "excerpt": "<p><a href=\"https://helm.sh/\" target=\"_blank\">Helm</a> is used install and upgrade Kubernetes applications. It is able to \ntemplate K8S resources used by an app and version each release of those apps.</p>"
+      "ring": 0,
+      "moved": 0,
+      "excerpt": "<p><a href=\"https://grafana.com/\" target=\"_blank\">Grafana</a> is an open source platform for monitoring and observability.\nIt allows us to query, visualize, alert on and understand metrics no matter where they are stored. </p>"
+    },
+    {
+      "id": "data__here-maps__here-maps",
+      "contents": "<h1 id=\"here-maps\">HERE Maps</h1>\n<p><a href=\"https://developer.here.com\" target=\"_blank\">HERE Maps</a> is a web mapping navigation service and is our strategy to use it as currently being used by our Business partners and we support it.</p>\n",
+      "label": "HERE Maps",
+      "quadrant": 1,
+      "ring": 0,
+      "moved": 0,
+      "excerpt": "<p><a href=\"https://developer.here.com\" target=\"_blank\">HERE Maps</a> is a web mapping navigation service and is our strategy to use it as currently being used by our Business partners and we support it.</p>"
     },
     {
       "id": "data__google-maps__google-maps",
@@ -150,13 +159,40 @@
       "excerpt": "<p><a href=\"https://developers.google.com/maps\" target=\"_blank\">Google Maps</a> is a web mapping tool that we do not support at the moment.</p>"
     },
     {
-      "id": "data__kubernetes__kubernetes",
-      "contents": "<h1 id=\"kubernetes\">Kubernetes</h1>\n<p><a href=\"https://kubernetes.io/\" target=\"_blank\">Kubernetes</a> is an open-source system for automating deployment, \nscaling, and management of containerized applications. At tblx, it is used to run applications on Azure with AKS, Azure \nKubernetes Service.</p>\n",
-      "label": "Kubernetes",
+      "id": "data__helm__helm",
+      "contents": "<h1 id=\"helm\">Helm</h1>\n<p><a href=\"https://helm.sh/\" target=\"_blank\">Helm</a> is used install and upgrade Kubernetes applications. It is able to \ntemplate K8S resources used by an app and version each release of those apps.</p>\n",
+      "label": "Helm",
       "quadrant": 1,
+      "ring": 1,
+      "moved": 1,
+      "excerpt": "<p><a href=\"https://helm.sh/\" target=\"_blank\">Helm</a> is used install and upgrade Kubernetes applications. It is able to \ntemplate K8S resources used by an app and version each release of those apps.</p>"
+    },
+    {
+      "id": "data__kafka-streams__kafka-streams",
+      "contents": "<h1 id=\"kafka-streams\">Kafka-Streams</h1>\n<p><a href=\"https://kafka.apache.org/documentation/streams/\" target=\"_blank\">Kafka Streams</a> is a client library for building applications and microservices, where the input and output data are stored in an Apache Kafka cluster. It combines the simplicity of writing and deploying standard Java and Scala applications on the client side with the benefits of Kafka’s server-side cluster technology.</p>\n<p>It is used in Global Services Platform / Connectivity Service Group Platform.</p>\n",
+      "label": "Kafka-Streams",
+      "quadrant": 2,
       "ring": 0,
       "moved": 0,
-      "excerpt": "<p><a href=\"https://kubernetes.io/\" target=\"_blank\">Kubernetes</a> is an open-source system for automating deployment, \nscaling, and management of containerized applications. At tblx, it is used to run applications on Azure with AKS, Azure \nKubernetes Service.</p>"
+      "excerpt": "<p><a href=\"https://kafka.apache.org/documentation/streams/\" target=\"_blank\">Kafka Streams</a> is a client library for building applications and microservices, where the input and output data are stored in an Apache Kafka cluster. It combines the simplicity of writing and deploying standard Java and Scala applications on the client side with the benefits of Kafka&#x2019;s server-side cluster technology.</p>"
+    },
+    {
+      "id": "data__java__java",
+      "contents": "<h1 id=\"java\">Java</h1>\n<p><a href=\"https://www.java.com/en/\" target=\"_blank\">Java</a> is a general-purpose, class-based, object-oriented programming language designed for having lesser implementation dependencies. It is considered as one of the faster, secure, and reliable programming languages preferred by many organizations to build their projects.</p>\n",
+      "label": "Java",
+      "quadrant": 0,
+      "ring": 0,
+      "moved": 0,
+      "excerpt": "<p><a href=\"https://www.java.com/en/\" target=\"_blank\">Java</a> is a general-purpose, class-based, object-oriented programming language designed for having lesser implementation dependencies. It is considered as one of the faster, secure, and reliable programming languages preferred by many organizations to build their projects.</p>"
+    },
+    {
+      "id": "data__kotlin__kotlin",
+      "contents": "<h1 id=\"kotlin\">Kotlin</h1>\n<p><a href=\"https://kotlinlang.org/\" target=\"_blank\">Kotlin</a> is a cross-platform, statically typed, general-purpose programming language with type inference. Kotlin is designed to interoperate fully with Java, and the JVM version of Kotlin&#39;s standard library depends on the Java Class Library, but type inference allows its syntax to be more concise. Kotlin mainly targets the JVM, but also compiles to JavaScript (e.g., for frontend web applications using React) or native code (via LLVM); e.g., for native iOS apps sharing business logic with Android apps.</p>\n",
+      "label": "Kotlin",
+      "quadrant": 0,
+      "ring": 0,
+      "moved": 0,
+      "excerpt": "<p><a href=\"https://kotlinlang.org/\" target=\"_blank\">Kotlin</a> is a cross-platform, statically typed, general-purpose programming language with type inference. Kotlin is designed to interoperate fully with Java, and the JVM version of Kotlin&apos;s standard library depends on the Java Class Library, but type inference allows its syntax to be more concise. Kotlin mainly targets the JVM, but also compiles to JavaScript (e.g., for frontend web applications using React) or native code (via LLVM); e.g., for native iOS apps sharing business logic with Android apps.</p>"
     },
     {
       "id": "data__jest__jest",
@@ -177,24 +213,6 @@
       "excerpt": "<p><a href=\"https://www.mapbox.com\" target=\"_blank\">Mapbox</a> is a location data platform that powers the maps and location services. Given the lack of usage by our Business Partners, we do not support it at the moment.</p>"
     },
     {
-      "id": "data__kafka-streams__kafka-streams",
-      "contents": "<h1 id=\"kafka-streams\">Kafka-Streams</h1>\n<p><a href=\"https://kafka.apache.org/documentation/streams/\" target=\"_blank\">Kafka Streams</a> is a client library for building applications and microservices, where the input and output data are stored in an Apache Kafka cluster. It combines the simplicity of writing and deploying standard Java and Scala applications on the client side with the benefits of Kafka’s server-side cluster technology.</p>\n<p>It is used in Global Services Platform / Connectivity Service Group Platform.</p>\n",
-      "label": "Kafka-Streams",
-      "quadrant": 2,
-      "ring": 0,
-      "moved": 0,
-      "excerpt": "<p><a href=\"https://kafka.apache.org/documentation/streams/\" target=\"_blank\">Kafka Streams</a> is a client library for building applications and microservices, where the input and output data are stored in an Apache Kafka cluster. It combines the simplicity of writing and deploying standard Java and Scala applications on the client side with the benefits of Kafka&#x2019;s server-side cluster technology.</p>"
-    },
-    {
-      "id": "data__here-maps__here-maps",
-      "contents": "<h1 id=\"here-maps\">HERE Maps</h1>\n<p><a href=\"https://developer.here.com\" target=\"_blank\">HERE Maps</a> is a web mapping navigation service and is our strategy to use it as currently being used by our Business partners and we support it.</p>\n",
-      "label": "HERE Maps",
-      "quadrant": 1,
-      "ring": 0,
-      "moved": 0,
-      "excerpt": "<p><a href=\"https://developer.here.com\" target=\"_blank\">HERE Maps</a> is a web mapping navigation service and is our strategy to use it as currently being used by our Business partners and we support it.</p>"
-    },
-    {
       "id": "data__next.js__next.js",
       "contents": "<h1 id=\"nextjs\">Next.JS</h1>\n<p><a href=\"https://nextjs.org\" target=\"_blank\">Next.JS</a> provides an abstraction on top of React tooling - Convention over configuration. We should assess it for the development of POCs and internal tools plus improving time-to-market. </p>\n",
       "label": "Next.JS",
@@ -204,22 +222,13 @@
       "excerpt": "<p><a href=\"https://nextjs.org\" target=\"_blank\">Next.JS</a> provides an abstraction on top of React tooling - Convention over configuration. We should assess it for the development of POCs and internal tools plus improving time-to-market. </p>"
     },
     {
-      "id": "data__node.js__node.js",
-      "contents": "<h1 id=\"nodejs\">Node.JS</h1>\n<p><a href=\"https://nodejs.org\" target=\"_blank\">Node.JS</a> is an open-source, cross-platform JavaScript runtime environment that runs on the V8 engine and executes JavaScript code outside a web browser. We successfully use it since It’s a good choice for restful APIs, real-time purposes/situations where many concurrent connections are expected.</p>\n",
-      "label": "Node.JS",
-      "quadrant": 1,
+      "id": "data__micrometer__micrometer",
+      "contents": "<h1 id=\"spring-boot\">Spring Boot</h1>\n<p><a href=\"https://micrometer.io/\" target=\"_blank\">Micrometer</a> provides a simple facade over the instrumentation clients for the most popular monitoring systems, allowing you to instrument your JVM-based application code without vendor lock-in. Think SLF4J, but for metrics.</p>\n",
+      "label": "Micrometer",
+      "quadrant": 2,
       "ring": 0,
       "moved": 0,
-      "excerpt": "<p><a href=\"https://nodejs.org\" target=\"_blank\">Node.JS</a> is an open-source, cross-platform JavaScript runtime environment that runs on the V8 engine and executes JavaScript code outside a web browser. We successfully use it since It&#x2019;s a good choice for restful APIs, real-time purposes/situations where many concurrent connections are expected.</p>"
-    },
-    {
-      "id": "data__ngrx__ngrx",
-      "contents": "<h1 id=\"ngrx\">NgRx</h1>\n<p><a href=\"https://ngrx.io\" target=\"_blank\">NgRx</a> provides reactive state management for Angular by following redux patterns. It is widely used by some of our Business Partners and therefore we support it.</p>\n",
-      "label": "NgRx",
-      "quadrant": 2,
-      "ring": 3,
-      "moved": 0,
-      "excerpt": "<p><a href=\"https://ngrx.io\" target=\"_blank\">NgRx</a> provides reactive state management for Angular by following redux patterns. It is widely used by some of our Business Partners and therefore we support it.</p>"
+      "excerpt": "<p><a href=\"https://micrometer.io/\" target=\"_blank\">Micrometer</a> provides a simple facade over the instrumentation clients for the most popular monitoring systems, allowing you to instrument your JVM-based application code without vendor lock-in. Think SLF4J, but for metrics.</p>"
     },
     {
       "id": "data__nginx__nginx",
@@ -231,13 +240,40 @@
       "excerpt": "<p><a href=\"https://www.nginx.com\" target=\"_blank\">NGINX</a> is a high&#x2011;performance and scalable web server, reverse proxy server, and web accelerator for combining the features of an HTTP load balancer, content cache, and more.</p>"
     },
     {
-      "id": "data__packer__packer",
-      "contents": "<h1 id=\"packer\">Packer</h1>\n<p><a href=\"https://www.packer.io/\" target=\"_blank\">Packer</a> automates the creation of any type of machine image. At tblx,\nit is used by few managed virtual machines.</p>\n",
-      "label": "Packer",
-      "quadrant": 2,
+      "id": "data__kubernetes__kubernetes",
+      "contents": "<h1 id=\"kubernetes\">Kubernetes</h1>\n<p><a href=\"https://kubernetes.io/\" target=\"_blank\">Kubernetes</a> is an open-source system for automating deployment, \nscaling, and management of containerized applications. At tblx, it is used to run applications on Azure with AKS, Azure \nKubernetes Service.</p>\n",
+      "label": "Kubernetes",
+      "quadrant": 1,
       "ring": 0,
-      "moved": -1,
-      "excerpt": "<p><a href=\"https://www.packer.io/\" target=\"_blank\">Packer</a> automates the creation of any type of machine image. At tblx,\nit is used by few managed virtual machines.</p>"
+      "moved": 0,
+      "excerpt": "<p><a href=\"https://kubernetes.io/\" target=\"_blank\">Kubernetes</a> is an open-source system for automating deployment, \nscaling, and management of containerized applications. At tblx, it is used to run applications on Azure with AKS, Azure \nKubernetes Service.</p>"
+    },
+    {
+      "id": "data__ngrx__ngrx",
+      "contents": "<h1 id=\"ngrx\">NgRx</h1>\n<p><a href=\"https://ngrx.io\" target=\"_blank\">NgRx</a> provides reactive state management for Angular by following redux patterns. It is widely used by some of our Business Partners and therefore we support it.</p>\n",
+      "label": "NgRx",
+      "quadrant": 2,
+      "ring": 3,
+      "moved": 0,
+      "excerpt": "<p><a href=\"https://ngrx.io\" target=\"_blank\">NgRx</a> provides reactive state management for Angular by following redux patterns. It is widely used by some of our Business Partners and therefore we support it.</p>"
+    },
+    {
+      "id": "data__node.js__node.js",
+      "contents": "<h1 id=\"nodejs\">Node.JS</h1>\n<p><a href=\"https://nodejs.org\" target=\"_blank\">Node.JS</a> is an open-source, cross-platform JavaScript runtime environment that runs on the V8 engine and executes JavaScript code outside a web browser. We successfully use it since It’s a good choice for restful APIs, real-time purposes/situations where many concurrent connections are expected.</p>\n",
+      "label": "Node.JS",
+      "quadrant": 1,
+      "ring": 0,
+      "moved": 0,
+      "excerpt": "<p><a href=\"https://nodejs.org\" target=\"_blank\">Node.JS</a> is an open-source, cross-platform JavaScript runtime environment that runs on the V8 engine and executes JavaScript code outside a web browser. We successfully use it since It&#x2019;s a good choice for restful APIs, real-time purposes/situations where many concurrent connections are expected.</p>"
+    },
+    {
+      "id": "data__postgresql__postgresql",
+      "contents": "<h1 id=\"postgresql\">PostgreSQL</h1>\n<p><a href=\"https://www.postgresql.org/\" target=\"_blank\">PostgreSQL</a> is a powerful, open source object-relational database system with over 30 years of active development that has earned it a strong reputation for reliability, feature robustness, and performance</p>\n",
+      "label": "PostgreSQL",
+      "quadrant": 1,
+      "ring": 0,
+      "moved": 1,
+      "excerpt": "<p><a href=\"https://www.postgresql.org/\" target=\"_blank\">PostgreSQL</a> is a powerful, open source object-relational database system with over 30 years of active development that has earned it a strong reputation for reliability, feature robustness, and performance</p>"
     },
     {
       "id": "data__npm__npm",
@@ -258,22 +294,13 @@
       "excerpt": "<p>We use <a href=\"https://prettier.io\" target=\"_blank\">Prettier</a> to have a common code style guide that is valuable for our projects and teams.</p>"
     },
     {
-      "id": "data__prometheus__prometheus",
-      "contents": "<h1 id=\"prometheus\">Prometheus</h1>\n<p><a href=\"https://prometheus.io/\" target=\"_blank\">Prometheus</a> is an open-source systems monitoring and alerting toolkit\nthat is part of the Cloud Native Computing Foundation and is very integrated with Kubernetes.</p>\n",
-      "label": "Prometheus",
-      "quadrant": 1,
-      "ring": 0,
-      "moved": 0,
-      "excerpt": "<p><a href=\"https://prometheus.io/\" target=\"_blank\">Prometheus</a> is an open-source systems monitoring and alerting toolkit\nthat is part of the Cloud Native Computing Foundation and is very integrated with Kubernetes.</p>"
-    },
-    {
-      "id": "data__react.js__react.js",
-      "contents": "<h1 id=\"reactjs\">React.JS</h1>\n<p><a href=\"https://reactjs.org\" target=\"_blank\">React.JS</a> makes it painless to create interactive UIs and we see great potential to build upcoming projects with React. It follows functional programming paradigms like immutability, unidirectional data flow, and function composition that provide better code readability, fewer errors, and higher confidence in the Application life cycle which leads to saving overall costs in development and production.</p>\n",
-      "label": "React.JS",
+      "id": "data__packer__packer",
+      "contents": "<h1 id=\"packer\">Packer</h1>\n<p><a href=\"https://www.packer.io/\" target=\"_blank\">Packer</a> automates the creation of any type of machine image. At tblx,\nit is used by few managed virtual machines.</p>\n",
+      "label": "Packer",
       "quadrant": 2,
       "ring": 0,
-      "moved": 0,
-      "excerpt": "<p><a href=\"https://reactjs.org\" target=\"_blank\">React.JS</a> makes it painless to create interactive UIs and we see great potential to build upcoming projects with React. It follows functional programming paradigms like immutability, unidirectional data flow, and function composition that provide better code readability, fewer errors, and higher confidence in the Application life cycle which leads to saving overall costs in development and production.</p>"
+      "moved": -1,
+      "excerpt": "<p><a href=\"https://www.packer.io/\" target=\"_blank\">Packer</a> automates the creation of any type of machine image. At tblx,\nit is used by few managed virtual machines.</p>"
     },
     {
       "id": "data__redux__redux",
@@ -294,6 +321,24 @@
       "excerpt": "<p><a href=\"https://www.sonarqube.org\" target=\"_blank\">SonarQube</a> an open-source platform for continuous inspection of code quality to perform automatic reviews with static analysis of code to detect bugs, code smells, and security vulnerabilities</p>"
     },
     {
+      "id": "data__prometheus__prometheus",
+      "contents": "<h1 id=\"prometheus\">Prometheus</h1>\n<p><a href=\"https://prometheus.io/\" target=\"_blank\">Prometheus</a> is an open-source systems monitoring and alerting toolkit\nthat is part of the Cloud Native Computing Foundation and is very integrated with Kubernetes.</p>\n",
+      "label": "Prometheus",
+      "quadrant": 1,
+      "ring": 0,
+      "moved": 0,
+      "excerpt": "<p><a href=\"https://prometheus.io/\" target=\"_blank\">Prometheus</a> is an open-source systems monitoring and alerting toolkit\nthat is part of the Cloud Native Computing Foundation and is very integrated with Kubernetes.</p>"
+    },
+    {
+      "id": "data__react.js__react.js",
+      "contents": "<h1 id=\"reactjs\">React.JS</h1>\n<p><a href=\"https://reactjs.org\" target=\"_blank\">React.JS</a> makes it painless to create interactive UIs and we see great potential to build upcoming projects with React. It follows functional programming paradigms like immutability, unidirectional data flow, and function composition that provide better code readability, fewer errors, and higher confidence in the Application life cycle which leads to saving overall costs in development and production.</p>\n",
+      "label": "React.JS",
+      "quadrant": 2,
+      "ring": 0,
+      "moved": 0,
+      "excerpt": "<p><a href=\"https://reactjs.org\" target=\"_blank\">React.JS</a> makes it painless to create interactive UIs and we see great potential to build upcoming projects with React. It follows functional programming paradigms like immutability, unidirectional data flow, and function composition that provide better code readability, fewer errors, and higher confidence in the Application life cycle which leads to saving overall costs in development and production.</p>"
+    },
+    {
       "id": "data__sass__sass",
       "contents": "<h1 id=\"sass\">Sass</h1>\n<p><a href=\"http://sass-lang.com\" target=\"_blank\">Sass</a> is a preprocessor scripting language and a powerful professional-grade CSS extension that is interpreted/compiled into CSS. It was created to respond to developer needs that were not supported by native CSS, at the time. Although more modern and better alternatives are out there (mainly targeting atomic CSS), since Sass is widely used within our Business Partners code-bases, we have to support it.</p>\n",
       "label": "Sass",
@@ -301,6 +346,15 @@
       "ring": 3,
       "moved": 0,
       "excerpt": "<p><a href=\"http://sass-lang.com\" target=\"_blank\">Sass</a> is a preprocessor scripting language and a powerful professional-grade CSS extension that is interpreted/compiled into CSS. It was created to respond to developer needs that were not supported by native CSS, at the time. Although more modern and better alternatives are out there (mainly targeting atomic CSS), since Sass is widely used within our Business Partners code-bases, we have to support it.</p>"
+    },
+    {
+      "id": "data__spring-boot__spring-boot",
+      "contents": "<h1 id=\"spring-boot\">Spring Boot</h1>\n<p><a href=\"https://spring.io/projects/spring-boot\" target=\"_blank\">Spring boot</a> makes it easy to create stand-alone, production-grade Spring based Applications that you can &quot;just run&quot;.\nWe take an opinionated view of the Spring platform and third-party libraries so you can get started with minimum fuss. Most Spring Boot applications need minimal Spring configuration.</p>\n",
+      "label": "Spring Boot",
+      "quadrant": 2,
+      "ring": 0,
+      "moved": 0,
+      "excerpt": "<p><a href=\"https://spring.io/projects/spring-boot\" target=\"_blank\">Spring boot</a> makes it easy to create stand-alone, production-grade Spring based Applications that you can &quot;just run&quot;.\nWe take an opinionated view of the Spring platform and third-party libraries so you can get started with minimum fuss. Most Spring Boot applications need minimal Spring configuration.</p>"
     },
     {
       "id": "data__storybook__storybook",
@@ -321,6 +375,15 @@
       "excerpt": "<p><a href=\"https://styled-components.com\" target=\"_blank\">Styled-components</a> is our go-to solution for React code-bases. With some solid production experience under our belts, we can now adopt it since it is the solution to enhance CSS for styling React component systems, by providing a better Developer Experience and following methodologies of Isolation, scoping, and atomic CSS.</p>"
     },
     {
+      "id": "data__terraform__terraform",
+      "contents": "<h1 id=\"docker\">Docker</h1>\n<p><a href=\"https://www.terraform.io/\" target=\"_blank\">Terraform</a> is an open-source infrastructure as code software \ntool that provides a consistent CLI workflow to manage hundreds of cloud services. Terraform codifies cloud APIs into \ndeclarative configuration files.</p>\n",
+      "label": "Terraform",
+      "quadrant": 1,
+      "ring": 0,
+      "moved": 1,
+      "excerpt": "<p><a href=\"https://www.terraform.io/\" target=\"_blank\">Terraform</a> is an open-source infrastructure as code software \ntool that provides a consistent CLI workflow to manage hundreds of cloud services. Terraform codifies cloud APIs into \ndeclarative configuration files.</p>"
+    },
+    {
       "id": "data__testing-library__testing-library",
       "contents": "<h1 id=\"testing-library\">Testing Library</h1>\n<p>We use <a href=\"https://testing-library.com\" target=\"_blank\">Testing Library</a> as a solution for testing React components. It provides light utility functions on top of react-dom in a way that encourages better testing practices.</p>\n",
       "label": "Testing Library",
@@ -330,22 +393,13 @@
       "excerpt": "<p>We use <a href=\"https://testing-library.com\" target=\"_blank\">Testing Library</a> as a solution for testing React components. It provides light utility functions on top of react-dom in a way that encourages better testing practices.</p>"
     },
     {
-      "id": "data__tftest__tftest",
-      "contents": "<h1 id=\"python-test-helper-for-terraform\">Python Test Helper for Terraform</h1>\n<p><a href=\"https://github.com/GoogleCloudPlatform/terraform-python-testing-helper\" target=\"_blank\">tftest</a> is library\nthat facilitates testing Terraform modules using Python unit tests. It&#39;s a small wrapper that makes writing Terraform \ntests a lot easier.</p>\n",
-      "label": "tftest",
+      "id": "data__thanos__thanos",
+      "contents": "<h1 id=\"thanos\">Thanos</h1>\n<p><a href=\"https://thanos.io/\" target=\"_blank\">Thanos</a> is an open-source Prometheus setup with long term storage \ncapabilities. At tblx it may be used to scale Prometheus between regions. </p>\n",
+      "label": "Thanos",
       "quadrant": 1,
-      "ring": 1,
+      "ring": 2,
       "moved": 0,
-      "excerpt": "<p><a href=\"https://github.com/GoogleCloudPlatform/terraform-python-testing-helper\" target=\"_blank\">tftest</a> is library\nthat facilitates testing Terraform modules using Python unit tests. It&apos;s a small wrapper that makes writing Terraform \ntests a lot easier.</p>"
-    },
-    {
-      "id": "data__terraform__terraform",
-      "contents": "<h1 id=\"docker\">Docker</h1>\n<p><a href=\"https://www.terraform.io/\" target=\"_blank\">Terraform</a> is an open-source infrastructure as code software \ntool that provides a consistent CLI workflow to manage hundreds of cloud services. Terraform codifies cloud APIs into \ndeclarative configuration files.</p>\n",
-      "label": "Terraform",
-      "quadrant": 1,
-      "ring": 0,
-      "moved": 1,
-      "excerpt": "<p><a href=\"https://www.terraform.io/\" target=\"_blank\">Terraform</a> is an open-source infrastructure as code software \ntool that provides a consistent CLI workflow to manage hundreds of cloud services. Terraform codifies cloud APIs into \ndeclarative configuration files.</p>"
+      "excerpt": "<p><a href=\"https://thanos.io/\" target=\"_blank\">Thanos</a> is an open-source Prometheus setup with long term storage \ncapabilities. At tblx it may be used to scale Prometheus between regions. </p>"
     },
     {
       "id": "data__typescript__typescript",
@@ -357,13 +411,13 @@
       "excerpt": "<p><a href=\"https://www.typescriptlang.org\" target=\"_blank\">TypeScript</a> Is an open-source language, created by Microsoft to respond to the challenges of dealing with large applications built on complex JavaScript code-base. It provides highly productive development tools and practices by adding static type definitions and since it compiles to JavaScript, it can make use of most of its features in the browser, and in the server through Node.js or Deno.</p>"
     },
     {
-      "id": "data__thanos__thanos",
-      "contents": "<h1 id=\"thanos\">Thanos</h1>\n<p><a href=\"https://thanos.io/\" target=\"_blank\">Thanos</a> is an open-source Prometheus setup with long term storage \ncapabilities. At tblx it may be used to scale Prometheus between regions. </p>\n",
-      "label": "Thanos",
+      "id": "data__tftest__tftest",
+      "contents": "<h1 id=\"python-test-helper-for-terraform\">Python Test Helper for Terraform</h1>\n<p><a href=\"https://github.com/GoogleCloudPlatform/terraform-python-testing-helper\" target=\"_blank\">tftest</a> is library\nthat facilitates testing Terraform modules using Python unit tests. It&#39;s a small wrapper that makes writing Terraform \ntests a lot easier.</p>\n",
+      "label": "tftest",
       "quadrant": 1,
-      "ring": 2,
+      "ring": 1,
       "moved": 0,
-      "excerpt": "<p><a href=\"https://thanos.io/\" target=\"_blank\">Thanos</a> is an open-source Prometheus setup with long term storage \ncapabilities. At tblx it may be used to scale Prometheus between regions. </p>"
+      "excerpt": "<p><a href=\"https://github.com/GoogleCloudPlatform/terraform-python-testing-helper\" target=\"_blank\">tftest</a> is library\nthat facilitates testing Terraform modules using Python unit tests. It&apos;s a small wrapper that makes writing Terraform \ntests a lot easier.</p>"
     },
     {
       "id": "data__yarn__yarn",
