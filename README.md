@@ -74,16 +74,6 @@ After setting up your data you need to run `yarn parse` to output the data to th
   - Open local dev server in http://localhost:3000
   - Open Browser-sync in http://localhost:3001
 
-## Contributing
-  
-Please ensure your pull requests adheres to our [Code of Conduct](https://gsep.daimler.com/confluence/display/TDH/%28FE%29+-+Code+of+Conduct)
-  
 ## Versioning
   
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://git.daimler.com/tdh/tech-radar-ui/tags).
-  
-## License
-  
-Licensed under [Daimler Inner Source License (ISL)](LICENSE.md)
-  
-For more info, see [Daimler FOSS](https://git.daimler.com/daimler-foss/daimler-inner-source-license)
+We use [SemVer](http://semver.org/) for versioning.
