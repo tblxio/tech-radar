@@ -4,7 +4,7 @@
 This module is for the UI of the Tech-Radar.
 It lists the technologies, frameworks, tools, and methods complemented by an assessment result.
 
-You can access a preview of the radar [here](https://pages.git.daimler.com/tblx/tech-radar-ui).
+You can access a preview of the radar [here](https://tblxio.github.io/tech-radar/).
 
 ## Workflow
 The tech radar is built predicated on data entries specified in `/docs/data`
