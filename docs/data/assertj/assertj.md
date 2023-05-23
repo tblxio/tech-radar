@@ -1,7 +1,7 @@
 ---
 label: AssertJ
 quadrant: 2
-ring : 2
+ring : 0
 moved: 0
 ---
 

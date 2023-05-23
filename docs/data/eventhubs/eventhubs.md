@@ -1,7 +1,7 @@
 ---
 label: Azure Event Hubs
 quadrant: 1
-ring : 2
+ring : 0
 moved: 0
 ---
 

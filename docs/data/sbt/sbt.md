@@ -1,7 +1,7 @@
 ---
 label: sbt
 quadrant: 1
-ring : 3
+ring : 0
 moved: 0
 ---
 

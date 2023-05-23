@@ -1,7 +1,7 @@
 ---
 label: zio
 quadrant: 2
-ring : 3
+ring : 1
 moved: 0
 ---
 

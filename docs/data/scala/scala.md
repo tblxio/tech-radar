@@ -1,7 +1,7 @@
 ---
 label: Scala
 quadrant: 0
-ring : 3
+ring : 0
 moved: 0
 ---
 

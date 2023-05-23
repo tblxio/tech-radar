@@ -1,7 +1,7 @@
 ---
 label: JUnit
 quadrant: 2
-ring : 3
+ring : 0
 moved: 0
 ---
 
