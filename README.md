@@ -1,8 +1,11 @@
 <img align='right' src="docs/media/tblx.png" width="88">
 
-# Tech Radar UI
-This module is for the UI of the Tech-Radar.
-It lists the technologies, frameworks, tools, and methods complemented by an assessment result.
+# tb.lx Tech Radar
+tb.lx Tech Radar is a visualization tool designed to help track and manage technology adoption and innovation within our company. It provides an overview of the technologies, tools, platforms, and practices we're exploring, using, or phasing out across various stages of maturity.
+
+Our Tech Radar concept draws inspiration from ThoughtWorks, and their well-known [Technology Radar](https://www.thoughtworks.com/radar). In addition, our project builds upon the open-source [tech-radar](https://github.com/zalando/tech-radar) project originally developed by Zalando under the MIT license. 
+
+While we've retained some foundational elements of the Zalando project, we've expanded it significantly to meet our unique requirements, adding new automation features providing an enhanced collaboration experience.
 
 You can access a preview of the radar [here](https://tblxio.github.io/tech-radar/).
 
@@ -77,3 +80,9 @@ After setting up your data you need to run `yarn parse` to output the data to th
 ## Versioning
   
 We use [SemVer](http://semver.org/) for versioning.
+
+
+## Licensing
+This project is released under the MIT License. It incorporates code and ideas from the Zalando tech-radar project © Zalando SE, as well as substantial additional work © 2020 tb.lx by Daimler Truck.
+
+
