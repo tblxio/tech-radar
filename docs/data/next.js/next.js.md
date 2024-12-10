@@ -1,10 +1,10 @@
 ---
-label: Next.JS
+label: Next.js
 quadrant: 2
-ring : 2
-moved: 0
+ring : 0
+moved: 1
 ---
 
-# Next.JS
+# Next.js
 
-<a href="https://nextjs.org" target="_blank">Next.JS</a> provides an abstraction on top of React tooling - Convention over configuration. We should assess it for the development of POCs and internal tools plus improving time-to-market. 
+<a href="https://nextjs.org" target="_blank">Next.js</a> is now our standard framework for React-based frontend applications. It offers a good balance between minimizing framework lock-in and providing valuable built-in features, such as optimizations, client and server-side rendering, routing, and Node.js middleware.

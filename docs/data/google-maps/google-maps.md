@@ -1,6 +1,6 @@
 ---
 label: Google Maps
-quadrant: 1
+quadrant: 3
 ring : 3
 moved: 0
 ---

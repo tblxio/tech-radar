@@ -1,6 +1,6 @@
 ---
 label: NGINX
-quadrant: 1
+quadrant: 3
 ring : 0
 moved: 0
 ---

@@ -1,6 +1,6 @@
 ---
 label: SQLite
-quadrant: 1
+quadrant: 2
 ring : 0
 moved: 0
 ---
