@@ -448,6 +448,15 @@
       "excerpt": "<p><a href=\"https://www.sonarqube.org\" target=\"_blank\">SonarQube</a> an open-source platform for continuous inspection of code quality to perform automatic reviews with static analysis of code to detect bugs, code smells, and security vulnerabilities</p>"
     },
     {
+      "id": "data__snyk__snyk",
+      "contents": "<h1 id=\"snyk\">Snyk</h1>\n<p><a href=\"https://snyk.io\" target=\"_blank\">Snyk</a> Snyk is a platform that allows you to scan, prioritize, and fix security vulnerabilities in your code, open-source dependencies, container images, and infrastructure as code configurations. The Snyk platform uses a risk-based approach, focusing security efforts on issues that matter, and eliminating the noise of vulnerabilities that have no meaningful impact.</p>\n",
+      "label": "Snyk",
+      "quadrant": 1,
+      "ring": 0,
+      "moved": 0,
+      "excerpt": "<p><a href=\"https://snyk.io/\" target=\"_blank\">Snyk</a> Snyk is a platform that allows you to scan, prioritize, and fix security vulnerabilities in your code, open-source dependencies, container images, and infrastructure as code configurations. The Snyk platform uses a risk-based approach, focusing security efforts on issues that matter, and eliminating the noise of vulnerabilities that have no meaningful impact.</p>"
+    },
+    {
       "id": "data__spring-boot__spring-boot",
       "contents": "<h1 id=\"spring-boot\">Spring Boot</h1>\n<p><a href=\"https://spring.io/projects/spring-boot\" target=\"_blank\">Spring boot</a> makes it easy to create stand-alone, production-grade Spring based Applications that you can &quot;just run&quot;.\nWe take an opinionated view of the Spring platform and third-party libraries so you can get started with minimum fuss. Most Spring Boot applications need minimal Spring configuration.</p>\n",
       "label": "Spring Boot",
