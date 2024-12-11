@@ -1,8 +1,8 @@
 ---
 label: Coverity
 quadrant: 1
-ring : 0
-moved: 0
+ring : 3
+moved: -1
 ---
 
 # Coverity
