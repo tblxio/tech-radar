@@ -41,5 +41,8 @@
   },
   "dependencies": {
     "markdown-json": "^1.5.1"
+  },
+  "engines": {
+    "node": ">=16.0.0"
   }
 }
