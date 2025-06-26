@@ -1,7 +1,7 @@
 ---
 title: Helm
 quadrant: developer-tools
-ring: trial
+ring: adopt
 tags:
 ---
 
